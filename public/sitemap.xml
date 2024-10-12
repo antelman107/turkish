@@ -2,23 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/turkish/posts/001-%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D0%B0/</loc>
+    <loc>http://localhost:1313/turkish/p/001-%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D0%B0/</loc>
   </url><url>
-    <loc>http://localhost:1313/turkish/posts/002-%D1%83%D0%B4%D0%B2%D0%BE%D0%B5%D0%BD%D0%B8%D0%B5/</loc>
+    <loc>http://localhost:1313/turkish/p/002-%D1%83%D0%B4%D0%B2%D0%BE%D0%B5%D0%BD%D0%B8%D0%B5/</loc>
   </url><url>
-    <loc>http://localhost:1313/turkish/posts/003-%D0%B5%D1%81%D0%BB%D0%B8-%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%82%D0%B8%D0%BF/</loc>
+    <loc>http://localhost:1313/turkish/p/003-%D0%B5%D1%81%D0%BB%D0%B8-%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%82%D0%B8%D0%BF/</loc>
   </url><url>
-    <loc>http://localhost:1313/turkish/posts/004-%D0%B5%D1%81%D0%BB%D0%B8-%D0%BD%D0%B5%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%82%D0%B8%D0%BF/</loc>
+    <loc>http://localhost:1313/turkish/p/004-%D0%B5%D1%81%D0%BB%D0%B8-%D0%BD%D0%B5%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%82%D0%B8%D0%BF/</loc>
   </url><url>
-    <loc>http://localhost:1313/turkish/posts/005-%D0%B5%D1%81%D0%BB%D0%B8-%D0%B6%D0%B5%D0%BB%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%82%D0%B8%D0%BF/</loc>
+    <loc>http://localhost:1313/turkish/p/005-%D0%B5%D1%81%D0%BB%D0%B8-%D0%B6%D0%B5%D0%BB%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%82%D0%B8%D0%BF/</loc>
   </url><url>
-    <loc>http://localhost:1313/turkish/posts/006-ki/</loc>
+    <loc>http://localhost:1313/turkish/p/006-ki/</loc>
   </url><url>
-    <loc>http://localhost:1313/turkish/posts/007-%D0%BD%D0%B0%D1%80%D0%B5%D1%87%D0%B8%D1%8F-%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F/</loc>
+    <loc>http://localhost:1313/turkish/p/007-%D0%BD%D0%B0%D1%80%D0%B5%D1%87%D0%B8%D1%8F-%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F/</loc>
+  </url><url>
+    <loc>http://localhost:1313/turkish/p/008-%D0%BF%D1%80%D0%B8%D1%87%D0%B0%D1%81%D1%82%D0%B8%D0%B5-dik/</loc>
   </url><url>
     <loc>http://localhost:1313/turkish/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/turkish/posts/</loc>
+    <loc>http://localhost:1313/turkish/p/</loc>
   </url><url>
     <loc>http://localhost:1313/turkish/tags/</loc>
   </url><url>
