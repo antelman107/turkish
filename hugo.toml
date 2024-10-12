@@ -2,6 +2,7 @@ baseURL = 'https://antelman107.github.io/turkish/'
 languageCode = 'ru-ru'
 title = 'Турецкий'
 theme = 'hugo-book'
+pluralizelisttitles = "false"
 
 [params]
 # (Optional, default light) Sets color theme: light, dark or auto.
