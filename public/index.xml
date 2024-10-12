@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Турецкий</title>
+    <link>http://localhost:1313/turkish/</link>
+    <description>Recent content on Турецкий</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru-ru</language>
+    <atom:link href="http://localhost:1313/turkish/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/001-%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D0%B0/</link>
+      <link>http://localhost:1313/turkish/posts/001-%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D0%B0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/001-%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D0%B0/</guid>
+      <guid>http://localhost:1313/turkish/posts/001-%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D0%B0/</guid>
       <description>&lt;h3 id=&#34;için---так-как&#34;&gt;İçin - так как&lt;/h3&gt;&#xA;&lt;p&gt;Настоящего и прошлого времени : Основа глагола + dık/dik/duk/dük/tık/tik/tuk/tük + принадлежность+ dan/den.   İçin&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Derse geldiğimden öğretmen kızdı&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Derse geç geldiğim için öğretmen kızdı&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;İşe geç kaldığı için müdür Ahmeti kovdu&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Doktor olduğu için bizi muayene ediyor&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Основа глагола + acak/ecek + принадлежность. İçin&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Yarın sınavı olduğu için bizimle gelmeyecek - так как у нее завтра экзамен, она с нами не пойдет&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Önümüzdeki hafta misafirlerimiz geleceği için annem şimdiden hazırlık yapıyor - так как на следующей неделе приедут гости, мама уже готовиться&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;diye---так-как&#34;&gt;Diye - так как&lt;/h3&gt;&#xA;&lt;p&gt;Оставляем глагол в том времени, в котором он употребляется и затем ставим diye&#xA;И после существительных, после прилагательных так же&lt;/p&gt;</description>
     </item>
   </channel>
