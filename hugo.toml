@@ -1,10 +1,12 @@
 baseURL = 'https://antelman107.github.io/turkish/'
-languageCode = 'ru'
+languageCode = 'rus'
 title = 'Турецкий'
 theme = 'hugo-book'
+#theme = 'hugo-theme-relearn'
 pluralizelisttitles = "false"
 
 [params]
+collapsibleMenu = false
 # (Optional, default light) Sets color theme: light, dark or auto.
 # Theme 'auto' switches between dark and light modes based on browser/os preferences
 BookTheme = 'light'
