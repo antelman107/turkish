@@ -9,7 +9,8 @@
 1.	O gelene kadar kapıda bekledik - Мы ждали в дверях до тех пор, пока он не пришел
 2.	Araba alana kadar işe yürüyerek gideceğiz - Пока не купим машину будем пешком идти на работу
 3.	Misafirler gelene kadar yemeklere dokunmayın - Не трогайте еду до прихода гостей
-2. Incaya kadar (inceye kadar)
+
+### Incaya/inceye kadar
 
 Абсолютно такое же значение, однако в разговорной речи используется реже, часто в более официальной
 
