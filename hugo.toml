@@ -1,4 +1,4 @@
-baseURL = 'https://antelman107.github.io/turkish/'
+baseURL = 'https://turkish.goturkey.club/'
 languageCode = 'rus'
 title = 'Турецкий'
 theme = 'hugo-book'
