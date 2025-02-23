@@ -1,0 +1,23 @@
+{{ define "main" }}
+<div class="content">
+    <nav>
+    <ul>
+        {{/* Loop through all pages sorted by their date (newest first) */}}
+        {{ range (sort .Site.RegularPages "Date" "desc") }}
+        <li>
+            <a href="{{ .Permalink }}">{{ .File.Dir }}
+                {{ if .Title }}
+                {{ . }}
+                {{ else if .LinkTitle }}
+                {{ .LinkTitle }}
+                {{ else }}
+                {{ .File.BaseFileName }}
+                {{ end }}
+            </a>
+            <small>{{ if .Date }} - {{ .Date.Format "2006-01-02" }}{{ end }}</small>
+        </li>
+        {{ end }}
+    </ul>
+    </nav>
+</div>
+{{ end }}
