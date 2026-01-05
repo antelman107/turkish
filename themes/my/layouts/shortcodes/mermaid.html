@@ -1,0 +1,11 @@
+<div class="mermaid">
+{{ .Inner }}
+</div>
+{{ if not (.Page.Scratch.Get "mermaid-loaded") }}
+<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+<script>
+  mermaid.initialize({ startOnLoad: true, theme: 'default' });
+</script>
+{{ .Page.Scratch.Set "mermaid-loaded" true }}
+{{ end }}
+

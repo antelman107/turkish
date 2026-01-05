@@ -1,0 +1,76 @@
+{{- /*
+Renders a list of related articles that share at least one tag with the current page.
+
+@context {page} page The current page.
+
+@example: {{ partial "related-articles.html" . }}
+*/}}
+
+{{- $page := . }}
+{{- $currentTags := $page.GetTerms "tags" }}
+{{- $relatedArticles := slice }}
+
+{{- if $currentTags }}
+  {{- $currentTagPermalinks := slice }}
+  {{- range $currentTags }}
+    {{- $currentTagPermalinks = $currentTagPermalinks | append .RelPermalink }}
+  {{- end }}
+
+  {{- range site.RegularPages }}
+    {{- if ne .RelPermalink $page.RelPermalink }}
+      {{- $pageTags := .GetTerms "tags" }}
+      {{- if $pageTags }}
+        {{- $hasCommonTag := false }}
+        {{- range $pageTags }}
+          {{- if in $currentTagPermalinks .RelPermalink }}
+            {{- $hasCommonTag = true }}
+          {{- end }}
+        {{- end }}
+        {{- if $hasCommonTag }}
+          {{- $relatedArticles = $relatedArticles | append . }}
+        {{- end }}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+
+  {{- if gt (len $relatedArticles) 0 }}
+    {{- $relatedArticles = first 6 $relatedArticles }}
+    <hr class="mt-5 mb-4">
+    <h3 class="mb-4">{{ if eq $page.Lang "ru" }}Похожие статьи{{ else }}Related Articles{{ end }}</h3>
+    <div class="row">
+      {{- range $relatedArticles }}
+      <div class="col-md-6 mb-4">
+        <div class="card h-100 bg-light rounded" style="border: none;">
+          <div class="card-body">
+            <span style="color: #aaa; font-size: 0.9em;">{{ partial "func/FormatDate.html" .PublishDate }}</span>
+            <h4 class="card-title mt-2">
+              <a href="{{ .RelPermalink }}" style="text-decoration: none; color: inherit;">{{ .Title }}</a>
+            </h4>
+            
+            {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
+            {{ if $featured_image }}
+            <a href="{{ .RelPermalink }}">
+              <img class="card-img-top mb-3 rounded"
+                   src="{{ $featured_image }}"
+                   style="width: 100%; height: 200px; object-fit: cover;"
+                   alt="{{ .Title }}"/>
+            </a>
+            {{ end }}
+            
+            <p class="card-text">{{ .Summary }}</p>
+            
+            <a href="{{ .RelPermalink }}" class="btn btn-primary btn-sm">Read More →</a>
+            
+            {{- with .GetTerms "tags" }}
+                {{- range . }}
+                  <a href="{{ .RelPermalink }}" class="badge">{{ .LinkTitle }}</a>
+                {{- end }}
+            {{- end }}
+          </div>
+        </div>
+      </div>
+      {{- end }}
+    </div>
+  {{- end }}
+{{- end }}
+

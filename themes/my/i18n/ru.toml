@@ -1,0 +1,9 @@
+[readMore]
+other = "Читать далее →"
+
+[articlesByTag]
+other = "Статьи по тегу \"%s\""
+
+[tableOfContents]
+other = "Содержание"
+

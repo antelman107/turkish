@@ -1,0 +1,40 @@
+{{ define "main" }}
+  <h1>{{ printf (i18n "articlesByTag") .Title }}</h1>
+  {{ .Content }}
+
+<div class="row">
+  {{ range .Pages }}
+
+    <div class="col-md-6 mb-4">
+        <div class="card h-100 bg-light rounded" style="border: none;">
+            <div class="card-body">
+                <span style="color: #aaa; font-size: 0.9em;">{{ partial "func/FormatDate.html" .PublishDate }}</span>
+                <h4 class="card-title mt-2">
+                    <a href="{{ .RelPermalink }}" style="text-decoration: none; color: inherit;">{{ .Title }}</a>
+                </h4>
+
+                {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
+                {{ if $featured_image }}
+                <a href="{{ .RelPermalink }}">
+                    <img class="card-img-top mb-3 rounded"
+                         src="{{ $featured_image }}"
+                         style="max-height: 200px;"
+                         alt="{{ .Title }}"/>
+                </a>
+                {{ end }}
+
+                <p class="card-text">{{ .Summary }}</p>
+
+                <a href="{{ .RelPermalink }}" class="btn btn-primary btn-sm">{{ i18n "readMore" }}</a>
+
+                {{- with .GetTerms "tags" }}
+                {{- range . }}
+                <a href="{{ .RelPermalink }}" class="badge">{{ .LinkTitle }}</a>
+                {{- end }}
+                {{- end }}
+            </div>
+        </div>
+    </div>
+  {{ end }}
+</div>
+{{ end }}

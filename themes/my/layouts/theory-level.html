@@ -1,0 +1,34 @@
+{{ define "main" }}
+  {{ $level := .Params.level }}
+  {{ $theorySection := .Params.theorySection }}
+
+  <div class="col-md-12 mt-4">
+    <div class="card mb-4 bg-light rounded container" style="border: none;">
+      <div class="card-body">
+        <h1 class="card-title">{{ .Title }}</h1>
+        {{ with .Content }}
+          <div class="mb-3">{{ . }}</div>
+        {{ end }}
+
+        {{ $pages := sort (where (where site.RegularPages "Section" $theorySection) "Params.level" $level) "Title" }}
+        {{ if gt (len $pages) 0 }}
+          <ul class="list-unstyled mb-0">
+            {{ range $pages }}
+              <li class="mb-2">
+                <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+                {{ $s := (.Summary | plainify | htmlUnescape | truncate 160) }}
+                {{ if $s }}
+                  <div class="text-muted small">{{ $s }}</div>
+                {{ end }}
+              </li>
+            {{ end }}
+          </ul>
+        {{ else }}
+          <p class="text-muted mb-0">Пока нет уроков.</p>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+{{ end }}
+
+

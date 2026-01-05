@@ -1,0 +1,9 @@
+[readMore]
+other = "Read More →"
+
+[articlesByTag]
+other = "Articles by tag \"%s\""
+
+[tableOfContents]
+other = "Contents"
+

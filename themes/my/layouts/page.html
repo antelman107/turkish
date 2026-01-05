@@ -1,0 +1,66 @@
+{{ define "main" }}
+<div class="col-lg-12">
+    <!-- Title -->
+    <h1 class="mt-4">{{ .Title }}</h1>
+
+    {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+    <p>{{ partial "func/FormatDate.html" .Date }}
+        {{- with .GetTerms "tags" }}
+            {{- range . }}
+            <a href="{{ .RelPermalink }}" class="badge">{{ .LinkTitle }}</a>
+            {{- end }}
+        {{- end }}
+    </p>
+
+    <hr/>
+
+    {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
+    {{ if $featured_image }}
+    <!-- Preview Image -->
+    <div class="container">
+        <div class="row mx-0 my-0">
+            <div class="col-md-8">
+                <img class="img-fluid rounded"
+                     style="max-height: 400px;"
+                     src="{{ $featured_image }}"
+                     alt="{{ .Title }}"/>
+            </div>
+            <div class="col-md-4">
+                {{ $toc := .TableOfContents }}
+                {{ if and $toc (findRE "<ul>" $toc) }}
+                <nav id="toc">
+                    <h5>{{ i18n "tableOfContents" }}</h5>
+                    {{ $toc }}
+                </nav>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+    <hr>
+    {{ end }}
+    {{ if not $featured_image }}
+    <div class="float-right">
+        <div>
+            {{ $toc := .TableOfContents }}
+            {{ if and $toc (findRE "<ul>" $toc) }}
+            <nav id="toc">
+                <h5>{{ i18n "tableOfContents" }}</h5>
+                {{ $toc }}
+            </nav>
+            {{ end }}
+        </div>
+        <div>
+        </div>
+    </div>
+    {{end}}
+
+    <div id="post-content">
+    {{ .Content }}
+    {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+    </div>
+    {{ partial "quiz.html" . }}
+    {{ partial "related-articles.html" . }}
+    <script defer src="/discuss.js"></script>
+    <div id="discuss"></div>
+</div>
+{{ end }}

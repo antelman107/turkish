@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+sitemap: https://golangforall.com/sitemap.xml

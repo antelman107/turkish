@@ -1,0 +1,31 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+    <linearGradient id="fezBodyGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#990000;stop-opacity:1" />
+        <stop offset="30%" style="stop-color:#cc0000;stop-opacity:1" />
+        <stop offset="70%" style="stop-color:#cc0000;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#800000;stop-opacity:1" />
+    </linearGradient>
+    <solidColor id="fezTopColor" solid-color="#d91a1a" />
+</defs>
+
+<g transform="translate(50, 50)">
+
+    <path d="M 40 180 Q 100 200 160 180 L 145 30 L 55 30 Z" fill="url(#fezBodyGradient)" stroke="#660000" stroke-width="2"/>
+
+    <ellipse cx="100" cy="30" rx="45" ry="15" fill="#d91a1a" stroke="#800000" stroke-width="2"/>
+
+    <circle cx="100" cy="30" r="6" fill="#222222"/>
+
+    <g stroke="#111111" stroke-width="3" stroke-linecap="round" fill="none">
+        <path d="M 100 30 Q 130 80 135 160" />
+        <path d="M 100 30 Q 125 85 130 165" />
+        <path d="M 100 30 Q 135 75 145 155" />
+        <path d="M 100 30 Q 120 90 125 170" />
+        <path d="M 100 30 Q 132 82 138 150" />
+        <path d="M 100 30 Q 128 78 128 158" />
+        <path d="M 100 30 Q 120 70 125 140" stroke-width="2"/>
+        <path d="M 100 30 Q 135 70 140 145" stroke-width="2"/>
+    </g>
+</g>
+</svg>

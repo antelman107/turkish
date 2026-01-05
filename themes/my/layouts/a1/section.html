@@ -1,0 +1,89 @@
+{{ define "main" }}
+  {{ $level := .Params.level | default "A1" }}
+
+  <div class="col-md-12 mt-4">
+    <div class="card mb-4 bg-light rounded container" style="border: none;">
+      <div class="card-body">
+        <h1 class="card-title">{{ .Title }}</h1>
+        {{ with .Content }}
+          <div class="mb-3">{{ . }}</div>
+        {{ end }}
+
+        {{ $tenses := sort (where (where site.RegularPages "Section" "времена") "Params.level" $level) "Title" }}
+        {{ $neededTheory := sort (where (where site.RegularPages "Section" "необходимая-теория") "Params.level" $level) "Title" }}
+        {{ $extraTheory := sort (where (where site.RegularPages "Section" "дополнительная-теория") "Params.level" $level) "Title" }}
+
+        <div class="row">
+          <div class="col-md-7">
+            <div class="content-block content-block--tenses">
+              <h2 class="h4">
+                <a href="{{ (relURL (printf "/%s/vremena/" (lower $level))) }}">Времена</a>
+              </h2>
+              {{ if gt (len $tenses) 0 }}
+                <ul class="list-unstyled mb-0">
+                  {{ range $tenses }}
+                    <li class="mb-2">
+                      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+                      {{ $s := (.Summary | plainify | htmlUnescape | truncate 160) }}
+                      {{ if $s }}
+                        <div class="text-muted small">{{ $s }}</div>
+                      {{ end }}
+                    </li>
+                  {{ end }}
+                </ul>
+              {{ else }}
+                <p class="text-muted mb-0">Пока нет уроков.</p>
+              {{ end }}
+            </div>
+
+            <div class="content-block content-block--needed-theory mt-3">
+              <h2 class="h4">
+                <a href="{{ (relURL (printf "/%s/neobkhodimaya-teoriya/" (lower $level))) }}">Необходимая теория</a>
+              </h2>
+              {{ if gt (len $neededTheory) 0 }}
+                <ul class="list-unstyled mb-0">
+                  {{ range $neededTheory }}
+                    <li class="mb-2">
+                      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+                      {{ $s := (.Summary | plainify | htmlUnescape | truncate 160) }}
+                      {{ if $s }}
+                        <div class="text-muted small">{{ $s }}</div>
+                      {{ end }}
+                    </li>
+                  {{ end }}
+                </ul>
+              {{ else }}
+                <p class="text-muted mb-0">Пока нет уроков.</p>
+              {{ end }}
+            </div>
+          </div>
+
+          <div class="col-md-5 mt-4 mt-md-0">
+            <div class="content-block content-block--extra-theory">
+              <h2 class="h4">
+                <a href="{{ (relURL (printf "/%s/dopolnitelnaya-teoriya/" (lower $level))) }}">Дополнительная теория</a>
+              </h2>
+              {{ if gt (len $extraTheory) 0 }}
+                <ul class="list-unstyled mb-0">
+                  {{ range $extraTheory }}
+                    <li class="mb-2">
+                      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+                      {{ $s := (.Summary | plainify | htmlUnescape | truncate 160) }}
+                      {{ if $s }}
+                        <div class="text-muted small">{{ $s }}</div>
+                      {{ end }}
+                    </li>
+                  {{ end }}
+                </ul>
+              {{ else }}
+                <p class="text-muted mb-0">Пока нет уроков.</p>
+              {{ end }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+{{ end }}
+
+

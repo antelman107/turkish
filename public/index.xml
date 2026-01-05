@@ -1,151 +1,376 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Турецкий</title>
-    <link>http://localhost:1313/turkish/</link>
-    <description>Recent content on Турецкий</description>
+    <title>Home on Турецкий с Анатолием</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in Home on Турецкий с Анатолием</description>
     <generator>Hugo</generator>
-    <language>rus</language>
-    <atom:link href="http://localhost:1313/turkish/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru-ru</language>
+    <lastBuildDate>Tue, 24 Mar 2020 09:00:00 +0300</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>http://localhost:1313/turkish/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/bilir-%D1%84%D0%BE%D1%80%D0%BC%D0%B0-%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/turkish/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/bilir-%D1%84%D0%BE%D1%80%D0%BC%D0%B0-%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8/</guid>
-      <description>&lt;p&gt;Выражает вероятность, навыки и умения.&#xA;Переводится, как «мочь/уметь».&lt;/p&gt;&#xA;&lt;h3 id=&#34;утверждение&#34;&gt;&#xA;  Утверждение&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%d1%83%d1%82%d0%b2%d0%b5%d1%80%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d0%b5&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Основа глагола + &lt;strong&gt;a/e&lt;/strong&gt; + &lt;strong&gt;bil&lt;/strong&gt; + окончание времён + ЛО&lt;/p&gt;&#xA;&lt;h3 id=&#34;отрицание&#34;&gt;&#xA;  Отрицание&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%d0%be%d1%82%d1%80%d0%b8%d1%86%d0%b0%d0%bd%d0%b8%d0%b5&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;h4 id=&#34;уверенноe&#34;&gt;&#xA;  уверенноe&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%d1%83%d0%b2%d0%b5%d1%80%d0%b5%d0%bd%d0%bd%d0%bee&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;p&gt;точно не смогу&lt;/p&gt;&#xA;&lt;p&gt;Основа глагола + &lt;strong&gt;a/e&lt;/strong&gt; + отрицание времени + окончания времени + ЛО&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Bu yazı çok küçük ben oku-&lt;strong&gt;YA-mı-yor-um&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Dün çok işim vardı bu yüzden partiye gid-&lt;strong&gt;E-me-di-m&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Geleçek hafta görüş-&lt;strong&gt;e-me-yeceğ-iz&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Bunu buraya bırak-&lt;strong&gt;a-maz-sın&lt;/strong&gt;!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;неуверенное&#34;&gt;&#xA;  неуверенное&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%d0%bd%d0%b5%d1%83%d0%b2%d0%b5%d1%80%d0%b5%d0%bd%d0%bd%d0%be%d0%b5&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;p&gt;могу и не…&lt;/p&gt;&#xA;&lt;p&gt;Основа глагола + &lt;strong&gt;ma/me&lt;/strong&gt; + &lt;strong&gt;ya/ye&lt;/strong&gt; + &lt;strong&gt;bilir&lt;/strong&gt; + ЛО&lt;/p&gt;</description>
+      <title>Будущее-прошедшее время (-acaktı/-ecekti)</title>
+      <link>//localhost:1313/post/future-in-past/</link>
+      <pubDate>Tue, 24 Mar 2020 09:00:00 +0300</pubDate>
+      <guid>//localhost:1313/post/future-in-past/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Gelecek Zamanın Hikâyesi (-acaktı/-ecekti)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Меня зовут Анатолий, я морская свинка. Вчера я был уверен: «Сейчас мне дадут морковку». Но нет — хозяйка отвлеклась. И я потом рассказываю: «Я уже &lt;strong&gt;собирался&lt;/strong&gt;…». Для такого «собирался/хотел/должен был» в турецком есть будущее‑прошедшее: &lt;strong&gt;-acaktı/-ecekti&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/turkish/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/geker-lazim/</link>
+      <link>//localhost:1313/slova/idiomy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/turkish/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/geker-lazim/</guid>
-      <description>&lt;p&gt;Оба слова на русский можно перевести, как необходимо.&lt;/p&gt;&#xA;&lt;h3 id=&#34;утвердительная-форма&#34;&gt;&#xA;  Утвердительная форма&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%d1%83%d1%82%d0%b2%d0%b5%d1%80%d0%b4%d0%b8%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d0%b0%d1%8f-%d1%84%d0%be%d1%80%d0%bc%d0%b0&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;h4 id=&#34;без-привязки-к-лицу&#34;&gt;&#xA;  без привязки к лицу&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%d0%b1%d0%b5%d0%b7-%d0%bf%d1%80%d0%b8%d0%b2%d1%8f%d0%b7%d0%ba%d0%b8-%d0%ba-%d0%bb%d0%b8%d1%86%d1%83&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;p&gt;Инфинитив + gerek/lazım&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Bu filmi mutlaka izlemek lazım/gerek&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Этот фильм обязательно нужно посмотреть&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;c-привязкой-к-лицу&#34;&gt;&#xA;  c привязкой к лицу&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#c-%d0%bf%d1%80%d0%b8%d0%b2%d1%8f%d0%b7%d0%ba%d0%be%d0%b9-%d0%ba-%d0%bb%d0%b8%d1%86%d1%83&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;p&gt;Основа глагола + отглагольное (ma/me) + ЛО&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Bu filmi mutlaka izlememiz lazım&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Нам обязательно надо посмотреть этот фильм&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Öğretmeni aramam lazım/gerek&#xA;&lt;ul&gt;&#xA;&lt;li&gt;мне надо позвонить учителю&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;времена&#34;&gt;&#xA;  времена&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%d0%b2%d1%80%d0%b5%d0%bc%d0%b5%d0%bd%d0%b0&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;В случае если действие выражает слово в будущем или со значением придется, то используем: gerekecek&lt;/li&gt;&#xA;&lt;li&gt;Если в момент речи, то gerekiyor.&lt;/li&gt;&#xA;&lt;li&gt;Если в целом: gerekir&lt;/li&gt;&#xA;&lt;li&gt;Если же в прошедшем, то: gerekti или lazımdı&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;отрицательная-форма&#34;&gt;&#xA;  Отрицательная форма&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%d0%be%d1%82%d1%80%d0%b8%d1%86%d0%b0%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d0%b0%d1%8f-%d1%84%d0%be%d1%80%d0%bc%d0%b0&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Глагол так же оставляем в инфинитиве или отглагольном, а к gerek добавляем отрицание того времени в котором говорим, может быть:&lt;/p&gt;</description>
+      <guid>//localhost:1313/slova/idiomy/</guid>
+      <description>&lt;p&gt;идиомы&lt;/p&gt;</description>
     </item>
     <item>
-      <title></title>
-      <link>http://localhost:1313/turkish/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/ken-%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0/</link>
+      <title>-mış gibi yapmak</title>
+      <link>//localhost:1313/dopolnitelnaya-teoriya/mis-gibi-yapmak/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/turkish/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/ken-%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0/</guid>
-      <description>&lt;h3 id=&#34;с-существительными-прилагательными-местами&#34;&gt;&#xA;  С существительными, прилагательными, местами&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%d1%81-%d1%81%d1%83%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b8%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d1%8b%d0%bc%d0%b8-%d0%bf%d1%80%d0%b8%d0%bb%d0%b0%d0%b3%d0%b0%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d1%8b%d0%bc%d0%b8-%d0%bc%d0%b5%d1%81%d1%82%d0%b0%d0%bc%d0%b8&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Okuldayken – когда был в школе&lt;/li&gt;&#xA;&lt;li&gt;Zayıfken&lt;/li&gt;&#xA;&lt;li&gt;Babam evdeyken biz televizyon izledik – когда папа был дома мы телевизор смотрели&lt;/li&gt;&#xA;&lt;li&gt;Çocukken – в детстве, когда я был ребенком&lt;/li&gt;&#xA;&lt;li&gt;Gençken – когда я был молодым&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;с-глаголами&#34;&gt;&#xA;  С глаголами&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%d1%81-%d0%b3%d0%bb%d0%b0%d0%b3%d0%be%d0%bb%d0%b0%d0%bc%d0%b8&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;в широком или настоящем времени – когда, в то время, как = выражает параллельные действия, процесс&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ben eve gidERken annem aradı&#xA;– Когда я шел домой мама позвонила&lt;/li&gt;&#xA;&lt;li&gt;Ben ders yaparken beni rahatsız etmeyin&#xA;– Не беспокойте меня когда я делаю уроки&lt;/li&gt;&#xA;&lt;li&gt;Ben konuşurken sözümü kesme&#xA;– не перебивай меня, когда я говорю&lt;/li&gt;&#xA;&lt;li&gt;Ben ders çalışırken siz geziyordunuz&#xA;– В то время, как я уроки делал вы гуляли&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;mışken--mişken--muşken--müşken--раз-уж-ecли-ты&#34;&gt;&#xA;  mışken – mişken – muşken – müşken – раз уж: ecли ты&amp;hellip;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#m%c4%b1%c5%9fken--mi%c5%9fken--mu%c5%9fken--m%c3%bc%c5%9fken--%d1%80%d0%b0%d0%b7-%d1%83%d0%b6-ec%d0%bb%d0%b8-%d1%82%d1%8b&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Markete gitmişken bana gazete al&lt;/li&gt;&#xA;&lt;li&gt;İstanbula gelmişken hadi Kız Kulesine gidelim&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;--acakken--ecekken--cобирался-планировал-только-хотел&#34;&gt;&#xA;  - acakken – ecekken – cобирался&amp;hellip;, планировал&amp;hellip;, только хотел&amp;hellip;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#--acakken--ecekken--c%d0%be%d0%b1%d0%b8%d1%80%d0%b0%d0%bb%d1%81%d1%8f-%d0%bf%d0%bb%d0%b0%d0%bd%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bb-%d1%82%d0%be%d0%bb%d1%8c%d0%ba%d0%be-%d1%85%d0%be%d1%82%d0%b5%d0%bb&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ben evden çıkacakken misafirler geldi&lt;/li&gt;&#xA;&lt;li&gt;Tam ben ders yapacakken elektriler gitti&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>//localhost:1313/dopolnitelnaya-teoriya/mis-gibi-yapmak/</guid>
+      <description>&lt;p&gt;присоединяется к глаголу в любом времени, а также к существительным и прилагательным, значение «Делать вид, что&amp;hellip;», «Притворяться, что&amp;hellip;»:&lt;/p&gt;</description>
     </item>
     <item>
-      <title></title>
-      <link>http://localhost:1313/turkish/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/%D0%B4%D0%B5%D0%B5%D0%BF%D1%80%D0%B8%D1%87%D0%B0%D1%81%D1%82%D0%B8%D0%B5-inca/</link>
+      <title>1. SÜRECE</title>
+      <link>//localhost:1313/dopolnitelnaya-teoriya/surece/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/turkish/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/%D0%B4%D0%B5%D0%B5%D0%BF%D1%80%D0%B8%D1%87%D0%B0%D1%81%D1%82%D0%B8%D0%B5-inca/</guid>
-      <description>&lt;h3 id=&#34;утверждение&#34;&gt;&#xA;  утверждение&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%d1%83%d1%82%d0%b2%d0%b5%d1%80%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d0%b5&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;На русский переводим, как «когда», «после того, как», «сразу, как»&lt;/li&gt;&#xA;&lt;li&gt;Показывает, что ко второму действию вы переходите сразу после завершения первого&lt;/li&gt;&#xA;&lt;li&gt;Так же может выражать причину «так как»&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Основа глагола + &lt;strong&gt;ınca/unca/ünce/ince&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ben eve gidince seni ararım&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Когда я пойду домой я позвоню тебе&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Ders bitince hepimiz eve gidiyoruz&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Когда урок закончится мы все идём домой&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;отрицание&#34;&gt;&#xA;  отрицание&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%d0%be%d1%82%d1%80%d0%b8%d1%86%d0%b0%d0%bd%d0%b8%d0%b5&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Основа + &lt;strong&gt;ma/me&lt;/strong&gt; + &lt;strong&gt;ınca/ince/unca/ünce&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Seni göremeyince çok üzüldüm&#xA;&lt;ul&gt;&#xA;&lt;li&gt;не увидев тебя я очень расстроился (так как я не увидел)&#xA;0- Ders yapmayınca annem çok kızıyor&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>//localhost:1313/dopolnitelnaya-teoriya/surece/</guid>
+      <description>&lt;h3 id=&#34;1-sürece--diği-sürece&#34;&gt;1. SÜRECE (-DIĞI sürece)&lt;/h3&gt;&#xA;&lt;h4 id=&#34;значение&#34;&gt;Значение&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;пока, до тех пор пока&lt;/li&gt;&#xA;&lt;li&gt;при условии, что действие/ситуация продолжается&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;употребление&#34;&gt;Употребление&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;используется с глаголами в форме &lt;code&gt;-DIĞI sürece&lt;/code&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title></title>
-      <link>http://localhost:1313/turkish/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/%D0%BE%D1%82%D0%B3%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5/</link>
+      <title>bilir форма возможности</title>
+      <link>//localhost:1313/dopolnitelnaya-teoriya/bilir-forma-vozmozhnosti/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/turkish/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/%D0%BE%D1%82%D0%B3%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5/</guid>
-      <description>&lt;p&gt;Отглагольное существительное или как использовать два и более глаголов вместе.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;В турецком языке существует особая группа слов, называемая отглагольными существительными. Это слова, которые обра-зуются от основы любого глагола и обозначают название дей-ствия. Отбросив последнюю букву инфинитива, мы получаем отглагольное существительное.&lt;/li&gt;&#xA;&lt;li&gt;Не путайте отглагольное существительное с отрицательной формой глагола, в первом случае ударение падет на последний слог, а во втором на предпоследний.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Например:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Gelmek – приходить / gelme – приход&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Gezmek – гулять/ gezme – прогулка&lt;/p&gt;</description>
+      <guid>//localhost:1313/dopolnitelnaya-teoriya/bilir-forma-vozmozhnosti/</guid>
+      <description>&lt;p&gt;Выражает вероятность, навыки и умения.&#xA;Переводится, как «мочь/уметь».&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Değil с глаголами</title>
+      <link>//localhost:1313/neobkhodimaya-teoriya/degil-s-glagolami/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/neobkhodimaya-teoriya/degil-s-glagolami/</guid>
+      <description>&lt;p&gt;используется после глаголов в настоящем, будущем, субъективном временах&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dır-dir-dur-dür – tır-tir-tur-tür</title>
+      <link>//localhost:1313/neobkhodimaya-teoriya/dir/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/neobkhodimaya-teoriya/dir/</guid>
+      <description>&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;&amp;ldquo;Это&amp;rdquo; - даёт определение&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Gerek, lâzım</title>
+      <link>//localhost:1313/neobkhodimaya-teoriya/gerek-lazim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/neobkhodimaya-teoriya/gerek-lazim/</guid>
+      <description>&lt;p&gt;Оба слова на русский можно перевести, как необходимо.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ki</title>
-      <link>http://localhost:1313/turkish/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/ki/</link>
+      <link>//localhost:1313/ki/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/turkish/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/ki/</guid>
-      <description>&lt;h3 id=&#34;сделать-прилагательное&#34;&gt;&#xA;  сделать прилагательное&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%d1%81%d0%b4%d0%b5%d0%bb%d0%b0%d1%82%d1%8c-%d0%bf%d1%80%d0%b8%d0%bb%d0%b0%d0%b3%d0%b0%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d0%be%d0%b5&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Akşam – akşamki&lt;/li&gt;&#xA;&lt;li&gt;Sabah – sabahki&lt;/li&gt;&#xA;&lt;li&gt;Bugün – bugünkü&lt;/li&gt;&#xA;&lt;li&gt;Dün – dünkü&lt;/li&gt;&#xA;&lt;li&gt;Gün – günkü&lt;/li&gt;&#xA;&lt;li&gt;Geçen haftaki&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;который&#34;&gt;&#xA;  Который&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%d0%ba%d0%be%d1%82%d0%be%d1%80%d1%8b%d0%b9&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;используется с местами, для уточнения мест, для сокращения предложения.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Masada kitap var. O kitap eski – Masadaki kitap eski – Книга, которая на столе – старая.&lt;/li&gt;&#xA;&lt;li&gt;Balkonda adam oturuyor. O gazete okuyor – Balkondaki adam kitap okuyor&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;чтобы-не-повторять-одно-и-то-же-слово&#34;&gt;&#xA;  Чтобы не повторять одно и то же слово&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%d1%87%d1%82%d0%be%d0%b1%d1%8b-%d0%bd%d0%b5-%d0%bf%d0%be%d0%b2%d1%82%d0%be%d1%80%d1%8f%d1%82%d1%8c-%d0%be%d0%b4%d0%bd%d0%be-%d0%b8-%d1%82%d0%be-%d0%b6%d0%b5-%d1%81%d0%bb%d0%be%d0%b2%d0%be&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Benim defterim kırmızı senin defterin sarı – Benim defterim kırmızı senin&lt;strong&gt;ki&lt;/strong&gt; sarı&lt;/li&gt;&#xA;&lt;li&gt;Benim telefonum bozuldu senin&lt;strong&gt;ki&lt;/strong&gt;ni kullanıyorum&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;союз-ki&#34;&gt;&#xA;  Союз Ki&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%d1%81%d0%be%d1%8e%d0%b7-ki&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Пишется раздельно&lt;/p&gt;</description>
+      <guid>//localhost:1313/ki/</guid>
+      <description>&lt;p&gt;Который, такой, что&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Будущее время (-acak/-ecek)</title>
+      <link>//localhost:1313/vremena/budushchee-vremya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/vremena/budushchee-vremya/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Gelecek Zaman&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Будущее время удобно для планов, обещаний и прогнозов. Часто встречается с: yarın (завтра), sonra (потом), gelecek hafta (на следующей неделе), birazdan (скоро).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>В то время как, раз уж, только (-ken)</title>
+      <link>//localhost:1313/neobkhodimaya-teoriya/ken-kogda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/neobkhodimaya-teoriya/ken-kogda/</guid>
+      <description>&lt;p&gt;Суффикс &lt;strong&gt;-ken&lt;/strong&gt; используется для выражения одновременности действий и временных обстоятельств. Он может присоединяться к существительным, прилагательным, местам и глаголам в разных временах, передавая значения &amp;ldquo;когда&amp;rdquo;, &amp;ldquo;в то время как&amp;rdquo;, &amp;ldquo;раз уж&amp;rdquo; и &amp;ldquo;только собирался&amp;rdquo;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>вводные слова</title>
-      <link>http://localhost:1313/turkish/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0/%D0%B2%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5-%D1%81%D0%BB%D0%BE%D0%B2%D0%B0/</link>
+      <link>//localhost:1313/slova/vvodnye-slova/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/turkish/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0/%D0%B2%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5-%D1%81%D0%BB%D0%BE%D0%B2%D0%B0/</guid>
-      <description>&lt;p&gt;&#xA;  &lt;a href=&#34;https://quizlet.com/tr/932995189/%d1%82%d1%83%d1%80%d0%b5%d1%86%d0%ba%d0%b8%d0%b5-%d0%b2%d0%b2%d0%be%d0%b4%d0%bd%d1%8b%d0%b5-%d1%81%d0%bb%d0%be%d0%b2%d0%b0-flash-cards&#34;&gt;quizlet.com/tr/932995189/турецкие-вводные-слова-flash-cards&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>//localhost:1313/slova/vvodnye-slova/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://quizlet.com/tr/932995189/%D1%82%D1%83%D1%80%D0%B5%D1%86%D0%BA%D0%B8%D0%B5-%D0%B2%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5-%D1%81%D0%BB%D0%BE%D0%B2%D0%B0-flash-cards&#34;&gt;quizlet.com/tr/932995189/турецкие-вводные-слова-flash-cards&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Временные отрезки</title>
-      <link>http://localhost:1313/turkish/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5-%D0%BE%D1%82%D1%80%D0%B5%D0%B7%D0%BA%D0%B8/</link>
+      <title>Вместо того (maktansa, yerine, varken, acağına)</title>
+      <link>//localhost:1313/dopolnitelnaya-teoriya/maktansa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/turkish/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5-%D0%BE%D1%82%D1%80%D0%B5%D0%B7%D0%BA%D0%B8/</guid>
-      <description>&lt;h3 id=&#34;dır&#34;&gt;&#xA;  Dır&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#d%c4%b1r&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;на протяжении - указывает на продолжительность времени&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Yıllardır - годами&lt;/li&gt;&#xA;&lt;li&gt;Aylardır - месяцами&lt;/li&gt;&#xA;&lt;li&gt;Günlerdir - днями&lt;/li&gt;&#xA;&lt;li&gt;2 haftadır - на протяжении двух недель&lt;/li&gt;&#xA;&lt;li&gt;1 aydır - на протяжении месяца&lt;/li&gt;&#xA;&lt;li&gt;3 gündür - на протяжении 3 дней, вот уже три дня&lt;/li&gt;&#xA;&lt;li&gt;5 saattir - на протяжении пяти часов&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Для обозначение абстрактного времени (без цифр) используется такое слово, как «boyunca»&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Çocukluğum boyunca  - правильный вариант&lt;/li&gt;&#xA;&lt;li&gt;çocukluğumdur - сказать нельзя&lt;/li&gt;&#xA;&lt;li&gt;Ders boyunca - на протяжении урока&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;dan-beri&#34;&gt;&#xA;  dan beri&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#dan-beri&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;может использоваться, как в значении «на протяжении», так и «с тех пор, как…»&lt;/p&gt;</description>
+      <guid>//localhost:1313/dopolnitelnaya-teoriya/maktansa/</guid>
+      <description>&lt;p&gt;Коротко: что означает и как использовать «Вместо того, чтобы конструкции:».&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Вот-вот, почти, чтобы (послелог üzere)</title>
+      <link>//localhost:1313/dopolnitelnaya-teoriya/uzere/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/dopolnitelnaya-teoriya/uzere/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Я почти доезжаю&lt;/em&gt; – Gelmek üzereYİM.&#xA;Dinlenmek üzere ara verdik – Чтобы отдохнуть мы сделали перерыв.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Временные отрезки (до, после, с тех пор, на протяжении)</title>
+      <link>//localhost:1313/neobkhodimaya-teoriya/vremennye-otrezki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/neobkhodimaya-teoriya/vremennye-otrezki/</guid>
+      <description>&lt;p&gt;Dir, boyunca, -dan beri, -a kadar, -madan önce, -dan sonra&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Гармония гласных</title>
+      <link>//localhost:1313/garmoniya-glasnykh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/garmoniya-glasnykh/</guid>
+      <description>&lt;p&gt;В турецком гласные делятся на &lt;strong&gt;жёсткие&lt;/strong&gt; (гласные заднего ряда) и &lt;strong&gt;мягкие&lt;/strong&gt; (гласные переднего ряда).&#xA;Это основа гармонии: в большинстве аффиксов гласная «подстраивается» под тип последней гласной в слове.&lt;/p&gt;&#xA;&lt;p&gt;Гармония гласных помогает выбрать «правильную» гласную в аффиксе.&#xA;Смотрим на &lt;strong&gt;последнюю гласную&lt;/strong&gt; в слове и выбираем вариант аффикса.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Гармония согласных, озвончение</title>
+      <link>//localhost:1313/neobkhodimaya-teoriya/garmoniya-soglasnykh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/neobkhodimaya-teoriya/garmoniya-soglasnykh/</guid>
+      <description>&lt;p&gt;Гармония согласных нужна, чтобы выбрать &lt;strong&gt;звонкий/глухой&lt;/strong&gt; вариант аффикса.&#xA;Самое частое для начинающих — &lt;strong&gt;d → t&lt;/strong&gt; в прошедшем времени (-DI).&lt;/p&gt;</description>
     </item>
     <item>
       <title>глаголы</title>
-      <link>http://localhost:1313/turkish/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0/%D0%B3%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D1%8B/</link>
+      <link>//localhost:1313/slova/glagoly/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/turkish/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0/%D0%B3%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D1%8B/</guid>
-      <description>&lt;p&gt;&#xA;  &lt;a href=&#34;https://quizlet.com/tr/938234975/%d1%82%d1%83%d1%80%d0%b5%d1%86%d0%ba%d0%b8%d0%b5-%d0%b3%d0%bb%d0%b0%d0%b3%d0%be%d0%bb%d1%8b-flash-cards/&#34;&gt;quizlet.com/tr/938234975/турецкие-глаголы-flash-cards/&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>//localhost:1313/slova/glagoly/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://quizlet.com/tr/938234975/%D1%82%D1%83%D1%80%D0%B5%D1%86%D0%BA%D0%B8%D0%B5-%D0%B3%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D1%8B-flash-cards/&#34;&gt;quizlet.com/tr/938234975/турецкие-глаголы-flash-cards/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Деепричастие **Dıkça/dikçe/dukca/dükçe/tukca/tikce/tukça/tükçe**</title>
+      <link>//localhost:1313/dopolnitelnaya-teoriya/dikca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/dopolnitelnaya-teoriya/dikca/</guid>
+      <description>&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;“По мере того, как”, «чем больше, тем»&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
     <item>
       <title>Деепричастие dik</title>
-      <link>http://localhost:1313/turkish/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/%D0%B4%D0%B5%D0%B5%D0%BF%D1%80%D0%B8%D1%87%D0%B0%D1%81%D1%82%D0%B8%D0%B5-dik/</link>
+      <link>//localhost:1313/neobkhodimaya-teoriya/deeprichastie-dik/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/turkish/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/%D0%B4%D0%B5%D0%B5%D0%BF%D1%80%D0%B8%D1%87%D0%B0%D1%81%D1%82%D0%B8%D0%B5-dik/</guid>
-      <description>&lt;p&gt;Как сказать «делая» или «когда я делал что-то» с глаголами&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Основа глагола + &lt;strong&gt;dik/dık/duk/dük/tik/tık/tuk/tük&lt;/strong&gt; + личное окончание 1 + zaman&lt;/li&gt;&#xA;&lt;li&gt;Основа глагола + &lt;strong&gt;dik/dık/duk/dük/tik/tık/tuk/tük&lt;/strong&gt; + личное окончание 1 + da/de&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;ЛО 1:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Benim - ım/im/um/üm&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Senin - ın/in/un/ün&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Onun - ı/i/u/ü&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Bizim - ımız/imiz/umuz/ümüz&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Sizin - ınız/iniz/unuz/ünüz&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Onların - ları/leri&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Когда я приехал в Турцию, мне было 5 лет&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ben Türkiye’ye gel+diğ+imde 5 yaşındaydım&lt;/li&gt;&#xA;&lt;li&gt;Ben Türkiye’ye gel+diğ+im zaman 5 yaşındaydım&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Когда мой брат закончил университет, он поехал в Америку&lt;/p&gt;</description>
+      <guid>//localhost:1313/neobkhodimaya-teoriya/deeprichastie-dik/</guid>
+      <description>&lt;p&gt;Коротко: что означает и как использовать «Деепричастие dik».&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Деепричастия - ana kadar и incaya kadar</title>
+      <link>//localhost:1313/dopolnitelnaya-teoriya/ana-kadar-incaya-kadar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/dopolnitelnaya-teoriya/ana-kadar-incaya-kadar/</guid>
+      <description>&lt;p&gt;Коротко: что означает и как использовать «Деепричастия - ana kadar и incaya kadar».&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Деепричастия - ana kadar и ıncaya kadar</title>
+      <link>//localhost:1313/deeprichastiya-kadar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/deeprichastiya-kadar/</guid>
+      <description>&lt;p&gt;Коротко: что означает и как использовать «Деепричастия - ana kadar и ıncaya kadar».&lt;/p&gt;</description>
     </item>
     <item>
       <title>Довольство/недовольство</title>
-      <link>http://localhost:1313/turkish/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0-%D0%B4%D0%BE%D0%B2%D0%BE%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE-%D0%BD%D0%B5%D0%B4%D0%BE%D0%B2%D0%BE%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE/</link>
+      <link>//localhost:1313/slova/slova-dovolstvo-nedovolstvo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/turkish/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0-%D0%B4%D0%BE%D0%B2%D0%BE%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE-%D0%BD%D0%B5%D0%B4%D0%BE%D0%B2%D0%BE%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE/</guid>
-      <description>&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;слово&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;перевод&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Şikayet etmek&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;жаловаться (исходный падеж)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Memnun değilim&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;недоволен (исходный падеж)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Rahatsız olmak&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;испытывать дискомфорт (исходный падеж)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Şaşırmak&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;быть удивленным (направительный падеж)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Kızmak&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;сердиться (направительный падеж)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Hayal kırıklığına uğramak&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;испытывать разочарование&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;İtiraz etmek&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;возражать (направительный )&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Yakınmak&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;сетовать  (исходный падеж)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Sitem etmek&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;возмущаться, жаловаться (направительный)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Canı sıkılmak&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;скучать, быть раздраженным&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Çileden çıkmak&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;выходить из себя&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Tepesi atmak&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;вспылить&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Sabrı taşmak&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;терпение лопается&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Kızgın olmak&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;быть сердитым&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Küplere binmek&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;приходить в ярость&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Gıcık olmak&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;раздражаться&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Kıl olmak&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;раздражаться&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Uyuz olmak&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;раздражаться&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Tahammül etmemek&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;не терпеть (ненавидеть)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Gıcık kapmak&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;раздражаться, испытывать антипатию&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Bayılmak&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;обожать&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Hoşuna gitmek&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;нравится&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Memnun olmak&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;быть довольным&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Mutlu olmak&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;быть счастливым&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Sevinmek&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;радоваться&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Keyif almak&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;получать удовольствие&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Gurur duymak&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;гордиться&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+      <guid>//localhost:1313/slova/slova-dovolstvo-nedovolstvo/</guid>
+      <description>&lt;p&gt;Коротко: подборка по теме «Довольство/недовольство».&lt;/p&gt;</description>
     </item>
     <item>
       <title>Если (желательный тип)</title>
-      <link>http://localhost:1313/turkish/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/%D0%B5%D1%81%D0%BB%D0%B8-%D0%B6%D0%B5%D0%BB%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%82%D0%B8%D0%BF/</link>
+      <link>//localhost:1313/neobkhodimaya-teoriya/esli-zhelatelnyi-tip/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/turkish/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/%D0%B5%D1%81%D0%BB%D0%B8-%D0%B6%D0%B5%D0%BB%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%82%D0%B8%D0%BF/</guid>
-      <description>&lt;p&gt;Условно - желательное наклонение&#xA;(Dilek - şart kipi)&lt;/p&gt;&#xA;&lt;h3 id=&#34;употребляется&#34;&gt;&#xA;  употребляется&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%d1%83%d0%bf%d0%be%d1%82%d1%80%d0%b5%d0%b1%d0%bb%d1%8f%d0%b5%d1%82%d1%81%d1%8f&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;При выражении наших желаний (вот бы…, если бы…)&lt;/li&gt;&#xA;&lt;li&gt;Иногда может выражать просьбу, предложение в обращении ко второму и третьему лицу, тогда переводим, как «может».&lt;/li&gt;&#xA;&lt;li&gt;Вопросительный тип данного наклонения может переводиться на русский, как «может», «интересно», когда мы раздумываем над тем или иным действием.&lt;/li&gt;&#xA;&lt;li&gt;Если же мы выражаем конструкцию если бы…, то бы…,&#xA;&lt;ul&gt;&#xA;&lt;li&gt;То придаточная часть (условие) берет на себя окончание условного наклонения, а главная ставится в необходимое время.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Так же в зависимости от послелога после условного наклонения может меняться перевод, ниже приведу примеры.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Обычно в значении «вот бы», для усиления используется слово Keşke.&lt;/li&gt;&#xA;&lt;li&gt;A для «если» - eğer.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;утверждение&#34;&gt;&#xA;  утверждение&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%d1%83%d1%82%d0%b2%d0%b5%d1%80%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d0%b5&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Основа глагола + &lt;strong&gt;sa/se&lt;/strong&gt; + личные окончания 2 группы&lt;/p&gt;</description>
+      <guid>//localhost:1313/neobkhodimaya-teoriya/esli-zhelatelnyi-tip/</guid>
+      <description>&lt;p&gt;Условно - желательное наклонение&#xA;(Dilek - şart kipi)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Если (нереальный тип)</title>
-      <link>http://localhost:1313/turkish/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/%D0%B5%D1%81%D0%BB%D0%B8-%D0%BD%D0%B5%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%82%D0%B8%D0%BF/</link>
+      <link>//localhost:1313/neobkhodimaya-teoriya/esli-nerealnyi-tip/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/turkish/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/%D0%B5%D1%81%D0%BB%D0%B8-%D0%BD%D0%B5%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%82%D0%B8%D0%BF/</guid>
-      <description>&lt;p&gt;Либо условная модальность прошедшего времени&#xA;Koşul kipinin hikayesi&lt;/p&gt;&#xA;&lt;h3 id=&#34;употребляется&#34;&gt;&#xA;  Употребляется&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%d1%83%d0%bf%d0%be%d1%82%d1%80%d0%b5%d0%b1%d0%bb%d1%8f%d0%b5%d1%82%d1%81%d1%8f&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Когда мы говорим о своих сожалениях, то есть о действиях в прошлом об осуществлении которых мы сожалеем, выражаем некую грусть, тоску. Переводим, как «вот бы», «если бы», «лучше бы».&lt;/li&gt;&#xA;&lt;li&gt;Когда мы говорим о мечтах, вероятность осуществления которых очень маловероятна.&lt;/li&gt;&#xA;&lt;li&gt;Если это вопросительный тип предложения, то мы раздумываем над какими-то действиями в прошлом, на русский переводим, как «может», «может стоило». Когда мы задумываемся о ином раскладе случившихся ситуаций.&lt;/li&gt;&#xA;&lt;li&gt;Так может быть конструкция «Если бы…, то бы….», в таком случае в придаточной части ставим условное наклонение, а в главной широкое в прошлом (rdı,ardı,erdi,ırdı,irdi,ürdü, urdu), либо будущее в прошлом (acaktı/ecekti).&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;утверждение&#34;&gt;&#xA;  Утверждение&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%d1%83%d1%82%d0%b2%d0%b5%d1%80%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d0%b5&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;С &lt;strong&gt;Keşke&lt;/strong&gt; - Основа глагола + &lt;strong&gt;saydı/seydi&lt;/strong&gt; + личные окончания 2 группы&#xA;&lt;ul&gt;&#xA;&lt;li&gt;вторая часть не нужна&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;С &lt;strong&gt;Eğer&lt;/strong&gt; – если бы - Основа глагола + &lt;strong&gt;saydı/seydi&lt;/strong&gt; + личные окончания 2 группы.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;то – o zaman – широкое в прошлом – &lt;strong&gt;rdı/ardı/erdi/urdu/ürdü/ırdı/irdi&lt;/strong&gt; + ЛО 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Личные окончания 2 группы:&lt;/p&gt;</description>
+      <guid>//localhost:1313/neobkhodimaya-teoriya/esli-nerealnyi-tip/</guid>
+      <description>&lt;p&gt;Либо условная модальность прошедшего времени&#xA;Koşul kipinin hikayesi&lt;/p&gt;</description>
     </item>
     <item>
       <title>Если (реальный тип)</title>
-      <link>http://localhost:1313/turkish/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/%D0%B5%D1%81%D0%BB%D0%B8-%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%82%D0%B8%D0%BF/</link>
+      <link>//localhost:1313/neobkhodimaya-teoriya/esli-realnyi-tip/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/turkish/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/%D0%B5%D1%81%D0%BB%D0%B8-%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%82%D0%B8%D0%BF/</guid>
-      <description>&lt;p&gt;Используется при ситуациях, когда условие и следствие являются реальными,&#xA;не вымышленными.&lt;/p&gt;&#xA;&lt;h3 id=&#34;утверждение&#34;&gt;&#xA;  Утверждение&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%d1%83%d1%82%d0%b2%d0%b5%d1%80%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d0%b5&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Основа глагола + времена + &lt;strong&gt;sa/se&lt;/strong&gt; + личные окончания 2 группы&lt;/p&gt;&#xA;&lt;p&gt;Личные окончания 2 группы:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Ben – m&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Sen – n&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Biz – K&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Siz – nız, niz, nuz, nüz&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Onlar – lar/ler&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;İst-&lt;strong&gt;iyor-sa-n&lt;/strong&gt; sana yardım edeyim&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Если хочешь я тебе помогу&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Ödevini zamanında yap-&lt;strong&gt;ar-sa-n&lt;/strong&gt; dışarıya çıkabilirsin&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Если сделаешь домашку во время можешь идти гулять&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;отрицание&#34;&gt;&#xA;  Отрицание&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%d0%be%d1%82%d1%80%d0%b8%d1%86%d0%b0%d0%bd%d0%b8%d0%b5&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Основа глагола + отрицание + времена + &lt;strong&gt;sa/se&lt;/strong&gt; + личные окончания 2 группы&lt;/p&gt;</description>
+      <guid>//localhost:1313/neobkhodimaya-teoriya/esli-realnyi-tip/</guid>
+      <description>&lt;p&gt;Используется при ситуациях, когда условие и следствие являются реальными,&#xA;не вымышленными.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Конструкция mI/mi/mu/mü для усиления смысла</title>
+      <link>//localhost:1313/dopolnitelnaya-teoriya/mi-dlya-usileniya-smysla/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/dopolnitelnaya-teoriya/mi-dlya-usileniya-smysla/</guid>
+      <description>&lt;p&gt;Данная конструкция используется для усиления утверждения или эмоционального акцента. Это не вопрос, несмотря на наличие вопросительной частицы.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Косвенная речь</title>
-      <link>http://localhost:1313/turkish/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/%D0%BA%D0%BE%D1%81%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F-%D1%80%D0%B5%D1%87%D1%8C/</link>
+      <link>//localhost:1313/dopolnitelnaya-teoriya/kosvennaya-rech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/turkish/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/%D0%BA%D0%BE%D1%81%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F-%D1%80%D0%B5%D1%87%D1%8C/</guid>
-      <description>&lt;h3 id=&#34;приказ-просьба&#34;&gt;&#xA;  приказ, просьба&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%d0%bf%d1%80%d0%b8%d0%ba%d0%b0%d0%b7-%d0%bf%d1%80%d0%be%d1%81%d1%8c%d0%b1%d0%b0&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;если в прямой речи присутствует приказ, просьба передаем это в косвенной с помощью &lt;strong&gt;ma/me&lt;/strong&gt;.&#xA;в прямой речи - demek, в косвенной речи используется глагол söylemek.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Annem &amp;lsquo;Odanı topla&amp;rsquo; dedi&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Annem odaMI topla&lt;strong&gt;mamı&lt;/strong&gt; söyledi&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Müdür &amp;lsquo;Raporları bugün bitir&lt;strong&gt;melisin&lt;/strong&gt;&amp;rsquo; dedi&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Müdür bana raporları bugün bitir&lt;strong&gt;memi&lt;/strong&gt; söyledi&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;факт&#34;&gt;&#xA;  факт&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%d1%84%d0%b0%d0%ba%d1%82&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Если просто факт (не приказ), то передаем в косвенной речи с помощью &lt;strong&gt;dık/acak&lt;/strong&gt;.&#xA;Если у нас не глагол, а прилагательное, то ставим &lt;strong&gt;olmak&lt;/strong&gt;.&lt;/p&gt;</description>
+      <guid>//localhost:1313/dopolnitelnaya-teoriya/kosvennaya-rech/</guid>
+      <description>&lt;p&gt;Коротко: что означает и как использовать «Косвенная речь».&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Личные окончания: 1 и 2 группа</title>
+      <link>//localhost:1313/neobkhodimaya-teoriya/lichnye-okonchaniya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/neobkhodimaya-teoriya/lichnye-okonchaniya/</guid>
+      <description>&lt;p&gt;Личные окончания — это суффиксы, которые показывают «кто делает/какой был»: &lt;em&gt;я, ты, он, мы, вы, они&lt;/em&gt;. В турецком часто выделяют &lt;strong&gt;2 набора&lt;/strong&gt; личных окончаний и называют их &lt;strong&gt;1 группа&lt;/strong&gt; и &lt;strong&gt;2 группа&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Местоимения</title>
+      <link>//localhost:1313/mestoimeniya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/mestoimeniya/</guid>
+      <description>&lt;p&gt;Местоимения — это слова, которые заменяют существительные: &lt;strong&gt;я, ты, он/она/оно, мы, вы, они&lt;/strong&gt;.&lt;br&gt;&#xA;В турецком личные местоимения используются похоже, но &lt;strong&gt;часто опускаются&lt;/strong&gt;, потому что лицо уже видно по окончанию сказуемого.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Наречия направления</title>
-      <link>http://localhost:1313/turkish/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0/%D0%BD%D0%B0%D1%80%D0%B5%D1%87%D0%B8%D1%8F-%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F/</link>
+      <link>//localhost:1313/slova/narechiya-napravleniya/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/turkish/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0/%D0%BD%D0%B0%D1%80%D0%B5%D1%87%D0%B8%D1%8F-%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F/</guid>
-      <description>&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;слово&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;перевод&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Aşağı&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;низ&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Aşağıya&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;вниз&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Aşağıda&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;внизу&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Aşağıdan&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;снизу&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Yukarı&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;верх&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Yukarıya&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;наверх&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Yukarıda&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;наверху&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Yukarıdan&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;сверху&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Sol&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;лево&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Sola&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;налево&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Solda&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;слева&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Soldan&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;слева&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Solunda&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;слева  от&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Sağ&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;право&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Sağa&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;направо&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Sağda&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;справа&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Sağdan&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;справа&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Sağında&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;справа  от&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Ön&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;перед&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Öne&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;вперед&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Önde&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;впереди&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Önden&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;спереди&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Önünde&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;перед чем-то&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Arka&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;зад&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Arkaya&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;назад&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Arkada&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;сзади&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Arkadan&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;сзади&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Arkasında&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;за чем-то&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Geriye&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;назад&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;İleriye&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;прямо (вперед)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Arasında&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;между&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Üstünde&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;на (сверху)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Yanında&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;рядом&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;İçinde&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;внутри (где?)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;İçine&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;внутрь (куда)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Dışında&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;вне , кроме (за пределами)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Karşısında&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;напротив&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Sonunda&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;в конце&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Köşede&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;на углу&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Başında&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;в начале&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Dışarıda&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;снаружи , на улице&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Dışarıya&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;наружу , на улицу&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;İçeride&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;внутри (помещение)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;İçeriye&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;внутрь&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+      <guid>//localhost:1313/slova/narechiya-napravleniya/</guid>
+      <description>&lt;p&gt;Коротко: подборка по теме «Наречия направления».&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Настолько ... насколько (-dık/-acak kadar)</title>
+      <link>//localhost:1313/dopolnitelnaya-teoriya/acagi-kadar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/dopolnitelnaya-teoriya/acagi-kadar/</guid>
+      <description>&lt;p&gt;Настолько &amp;hellip; насколько. Korktuğum kadar zor değildi.** - *Это было не так сложно, как я боялся.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Настоящее время (-yor)</title>
+      <link>//localhost:1313/vremena/nastoyashchee-vremya-yor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/vremena/nastoyashchee-vremya-yor/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Şimdiki Zaman&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Это время про «сейчас» / «в процессе». Часто встречается с: şimdi (сейчас), şu anda (в данный момент).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Не смотря на (rağmen/halde)</title>
+      <link>//localhost:1313/dopolnitelnaya-teoriya/nesmotrya-na/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/dopolnitelnaya-teoriya/nesmotrya-na/</guid>
+      <description>&lt;p&gt;Не смотря на (rağmen/halde)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>отглагольные</title>
+      <link>//localhost:1313/neobkhodimaya-teoriya/otglagolnye/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/neobkhodimaya-teoriya/otglagolnye/</guid>
+      <description>&lt;p&gt;Коротко: что означает и как использовать «отглагольные».&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>падежи существительных</title>
+      <link>//localhost:1313/neobkhodimaya-teoriya/padezhi-sushchestvitelnykh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/neobkhodimaya-teoriya/padezhi-sushchestvitelnykh/</guid>
+      <description>&lt;p&gt;Коротко: что означает и как использовать «падежи существительных».&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>побудительный залог</title>
+      <link>//localhost:1313/pobuditelnyi-zalog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pobuditelnyi-zalog/</guid>
+      <description>&lt;p&gt;Конструкция, выражающая принуждение или просьбу к действию - я попросила маляров покрасить дом - так как действие выполняют маляры ставим в направительный - ben boyacılarA&#xA;evi boya&lt;strong&gt;Ttım&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>прилагательные</title>
-      <link>http://localhost:1313/turkish/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0/%D0%BF%D1%80%D0%B8%D0%BB%D0%B0%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5/</link>
+      <link>//localhost:1313/slova/prilagatelnye/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/turkish/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0/%D0%BF%D1%80%D0%B8%D0%BB%D0%B0%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5/</guid>
-      <description>&lt;p&gt;&#xA;  &lt;a href=&#34;https://quizlet.com/tr/938255830/%d0%a2%d1%83%d1%80%d0%b5%d1%86%d0%ba%d0%b8%d0%b5-%d0%bf%d1%80%d0%b8%d0%bb%d0%b0%d0%b3%d0%b0%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d1%8b%d0%b5-flash-cards&#34;&gt;quizlet.com/tr/938255830/Турецкие-прилагательные-flash-cards/&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>//localhost:1313/slova/prilagatelnye/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://quizlet.com/tr/938255830/%D0%A2%D1%83%D1%80%D0%B5%D1%86%D0%BA%D0%B8%D0%B5-%D0%BF%D1%80%D0%B8%D0%BB%D0%B0%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-flash-cards&#34;&gt;quizlet.com/tr/938255830/Турецкие-прилагательные-flash-cards/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Причастие dık</title>
-      <link>http://localhost:1313/turkish/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/%D0%BF%D1%80%D0%B8%D1%87%D0%B0%D1%81%D1%82%D0%B8%D0%B5-dik/</link>
+      <link>//localhost:1313/neobkhodimaya-teoriya/prichastie-dik/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/turkish/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/%D0%BF%D1%80%D0%B8%D1%87%D0%B0%D1%81%D1%82%D0%B8%D0%B5-dik/</guid>
-      <description>&lt;h3 id=&#34;если-речь-о-настоящем-и-прошедшем&#34;&gt;&#xA;  Если речь о настоящем и прошедшем&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%d0%b5%d1%81%d0%bb%d0%b8-%d1%80%d0%b5%d1%87%d1%8c-%d0%be-%d0%bd%d0%b0%d1%81%d1%82%d0%be%d1%8f%d1%89%d0%b5%d0%bc-%d0%b8-%d0%bf%d1%80%d0%be%d1%88%d0%b5%d0%b4%d1%88%d0%b5%d0%bc&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Основа глагола + &lt;strong&gt;dık/dik&lt;/strong&gt; + личное окончание 1 типа + существительное&lt;/p&gt;&#xA;&lt;p&gt;Личные окончания 1 типа:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ben - y(im)&lt;/li&gt;&#xA;&lt;li&gt;sen - sin&lt;/li&gt;&#xA;&lt;li&gt;o - &amp;ndash;&lt;/li&gt;&#xA;&lt;li&gt;biz - yiz&lt;/li&gt;&#xA;&lt;li&gt;siz - siniz&lt;/li&gt;&#xA;&lt;li&gt;onlar - lar&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;В данной конструкции есть всегда упор на лицо (местоимение)&lt;/p&gt;&#xA;&lt;p&gt;Переводится, как который&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sev&lt;strong&gt;diğ-im&lt;/strong&gt; yemek&#xA;&lt;ul&gt;&#xA;&lt;li&gt;еда, которую я люблю&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Oku&lt;strong&gt;duğ-um&lt;/strong&gt; kitap&#xA;&lt;ul&gt;&#xA;&lt;li&gt;книга, которую я читаю&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Tanı&lt;strong&gt;dığ-ım&lt;/strong&gt; insan&#xA;&lt;ul&gt;&#xA;&lt;li&gt;человек, которого я знаю&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Senin izle&lt;strong&gt;diğ-in&lt;/strong&gt; film çok sıkıcı&#xA;&lt;ul&gt;&#xA;&lt;li&gt;фильм, который ты смотришь скучный&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Git&lt;strong&gt;tiğ-im&lt;/strong&gt; yer - место, в которое я хожу&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;с-существительными-в-будущем-времени&#34;&gt;&#xA;  с существительными в будущем времени&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%d1%81-%d1%81%d1%83%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b8%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d1%8b%d0%bc%d0%b8-%d0%b2-%d0%b1%d1%83%d0%b4%d1%83%d1%89%d0%b5%d0%bc-%d0%b2%d1%80%d0%b5%d0%bc%d0%b5%d0%bd%d0%b8&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Основа глагола + &lt;strong&gt;acak/ecek&lt;/strong&gt; + личное окончание 1 типа&#xA;ЛО 1:&lt;/p&gt;</description>
+      <guid>//localhost:1313/neobkhodimaya-teoriya/prichastie-dik/</guid>
+      <description>&lt;p&gt;Коротко: что означает и как использовать «Причастие dık».&lt;/p&gt;</description>
     </item>
     <item>
       <title>Причина (İçin, dolayi, yüzünden, nedeniyle)</title>
-      <link>http://localhost:1313/turkish/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D0%B0/</link>
+      <link>//localhost:1313/neobkhodimaya-teoriya/prichina/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/turkish/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D0%B0/</guid>
-      <description>&lt;h3 id=&#34;için---так-как&#34;&gt;&#xA;  İçin - так как&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#i%c3%a7in---%d1%82%d0%b0%d0%ba-%d0%ba%d0%b0%d0%ba&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Настоящее и прошедшее время:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Основа глагола + &lt;strong&gt;dık/dik/duk/dük/tık/tik/tuk/tük&lt;/strong&gt; + принадлежность + &lt;strong&gt;dan/den&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Основа глагола + &lt;strong&gt;dık/dik/duk/dük/tık/tik/tuk/tük&lt;/strong&gt; + принадлежность + için&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Примеры:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Derse gel&lt;strong&gt;diğ-im-den&lt;/strong&gt; öğretmen kızdı&lt;/li&gt;&#xA;&lt;li&gt;Derse geç gel&lt;strong&gt;diğ-im için&lt;/strong&gt; öğretmen kızdı&lt;/li&gt;&#xA;&lt;li&gt;İşe geç kal&lt;strong&gt;dığ-ı için&lt;/strong&gt; müdür Ahmeti kovdu&lt;/li&gt;&#xA;&lt;li&gt;Doktor ol&lt;strong&gt;duğ-u için&lt;/strong&gt; bizi muayene ediyor&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Будущее время:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Основа глагола + &lt;strong&gt;acak/ecek&lt;/strong&gt; + принадлежность + için&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Примеры:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Yarın sınavı ol&lt;em&gt;duğ-u&lt;/em&gt; için bizimle gelmeyecek&#xA;&lt;ul&gt;&#xA;&lt;li&gt;так как у нее завтра экзамен, она с нами не пойдет&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Önümüzdeki hafta misafirlerimiz &lt;strong&gt;gel-eceğ-i için&lt;/strong&gt; annem şimdiden hazırlık yapıyor&#xA;&lt;ul&gt;&#xA;&lt;li&gt;так как на следующей неделе приедут гости, мама уже готовиться&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;diye---так-как&#34;&gt;&#xA;  Diye - так как&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#diye---%d1%82%d0%b0%d0%ba-%d0%ba%d0%b0%d0%ba&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Оставляем глагол в том времени, в котором он употребляется и затем ставим &lt;strong&gt;diye&lt;/strong&gt;.&#xA;И после существительных, после прилагательных так же.&lt;/p&gt;</description>
+      <guid>//localhost:1313/neobkhodimaya-teoriya/prichina/</guid>
+      <description>&lt;p&gt;Коротко: что означает и как использовать «Причина (İçin, dolayi, yüzünden, nedeniyle)».&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Прошедшее время с глаголами (-dı/-di/-du/-dü)</title>
+      <link>//localhost:1313/vremena/proshedshee-kategoricheskoe-s-glagolami/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/vremena/proshedshee-kategoricheskoe-s-glagolami/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;-Di&amp;rsquo;li Geçmiş Zaman&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Для «точных фактов», которые расказчик сам видел или полностью уверен, в турецком часто используют прошедшее &lt;strong&gt;-DI&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Прошедшее с существительными и прилагательными</title>
+      <link>//localhost:1313/vremena/proshedshee-kategoricheskoe-s-drugimi-chastyami-rechi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/vremena/proshedshee-kategoricheskoe-s-drugimi-chastyami-rechi/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Ek‑fiilin Görülen Geçmiş Zamanı (-ydi)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Как сказать «был/была/было» по-турецки: прошедшее &lt;strong&gt;-DI&lt;/strong&gt; как сказуемость с существительными, прилагательными, местоимениями и числительными. Если вам нужно прошедшее &lt;strong&gt;-DI&lt;/strong&gt; с глаголами — см. &lt;a href=&#34;//localhost:1313/vremena/proshedshee-kategoricheskoe-s-glagolami/&#34;&gt;прошедшее время с глаголами (-dı/-di/-du/-dü)&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Прошедшее субъективное время (-mış, -miş, -muş, -müş)</title>
+      <link>//localhost:1313/vremena/proshedshee-subektivnoe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/vremena/proshedshee-subektivnoe/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;-Miş&amp;rsquo;li Geçmiş Zaman&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Меня зовут Анатолий, я морская свинка. Иногда я не видел, что случилось, но слышал: «Говорят, морковку уже съели». Вот для таких «непроверенных» фактов и неожиданностей в турецком часто используют &lt;strong&gt;-miş/-mış/-muş/-müş&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Развернутое дополнение - dik</title>
+      <link>//localhost:1313/neobkhodimaya-teoriya/razvernutoe-dopolnenie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/neobkhodimaya-teoriya/razvernutoe-dopolnenie/</guid>
+      <description>&lt;p&gt;Выполняет функцию дополнения, дополняя сказуемое главного предложения. На русский такие предложения переводятся словом «что».&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Согласно кому-либо (göre)</title>
+      <link>//localhost:1313/dopolnitelnaya-teoriya/kadariyla-gore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/dopolnitelnaya-teoriya/kadariyla-gore/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Duyduğuma göre&lt;/strong&gt; — как слышал&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Страдательный залог = Edilgen Çatı</title>
+      <link>//localhost:1313/dopolnitelnaya-teoriya/stradatelnyi-zalog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/dopolnitelnaya-teoriya/stradatelnyi-zalog/</guid>
+      <description>&lt;p&gt;Коротко: что означает и как использовать «Страдательный залог = Edilgen Çatı».&lt;/p&gt;</description>
     </item>
     <item>
       <title>Удвоение</title>
-      <link>http://localhost:1313/turkish/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/%D1%83%D0%B4%D0%B2%D0%BE%D0%B5%D0%BD%D0%B8%D0%B5/</link>
+      <link>//localhost:1313/dopolnitelnaya-teoriya/udvoenie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/turkish/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/%D1%83%D0%B4%D0%B2%D0%BE%D0%B5%D0%BD%D0%B8%D0%B5/</guid>
-      <description>&lt;h3 id=&#34;удвоения-с-повтором&#34;&gt;&#xA;  Удвоения с повтором&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%d1%83%d0%b4%d0%b2%d0%be%d0%b5%d0%bd%d0%b8%d1%8f-%d1%81-%d0%bf%d0%be%d0%b2%d1%82%d0%be%d1%80%d0%be%d0%bc&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ağlaya ağlaya - плача&lt;/li&gt;&#xA;&lt;li&gt;Yavaş yavaş - медленно, потихонечку&lt;/li&gt;&#xA;&lt;li&gt;Adım adım - шаг за шагом, постепенно&lt;/li&gt;&#xA;&lt;li&gt;Koşa koşa - бегом&lt;/li&gt;&#xA;&lt;li&gt;Bir bir - по очереди&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;удвоения-с-синонимами&#34;&gt;&#xA;  Удвоения с синонимами&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%d1%83%d0%b4%d0%b2%d0%be%d0%b5%d0%bd%d0%b8%d1%8f-%d1%81-%d1%81%d0%b8%d0%bd%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d0%bc%d0%b8&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ses seda - тишина&lt;/li&gt;&#xA;&lt;li&gt;Şan söhret - слава&lt;/li&gt;&#xA;&lt;li&gt;Yorgun argın - очень уставший&lt;/li&gt;&#xA;&lt;li&gt;İte kaka - толкая&lt;/li&gt;&#xA;&lt;li&gt;Mutlu mesut - очень счастливый&lt;/li&gt;&#xA;&lt;li&gt;Gizli saklı -  скрытый/тайный&lt;/li&gt;&#xA;&lt;li&gt;Eş dost - всё окружение / все близкие&lt;/li&gt;&#xA;&lt;li&gt;Doğru dürüst - нормально/ый&lt;/li&gt;&#xA;&lt;li&gt;Üst baş - одежда, внешний вид&lt;/li&gt;&#xA;&lt;li&gt;Bıkmak usanmak - устать, надоесть, быть сытым по горло&lt;/li&gt;&#xA;&lt;li&gt;Sağ salim - живой здоровый&lt;/li&gt;&#xA;&lt;li&gt;Sorgu sual - допрос&lt;/li&gt;&#xA;&lt;li&gt;Akıl fikir - ум разум&lt;/li&gt;&#xA;&lt;li&gt;Az buçuk - немного&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;удвоения-с-антонимами&#34;&gt;&#xA;  Удвоения с антонимами&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%d1%83%d0%b4%d0%b2%d0%be%d0%b5%d0%bd%d0%b8%d1%8f-%d1%81-%d0%b0%d0%bd%d1%82%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d0%bc%d0%b8&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Aşağı yukarı - плюс минус&lt;/li&gt;&#xA;&lt;li&gt;Az çok - немного&lt;/li&gt;&#xA;&lt;li&gt;Alt üst - всего лишь&lt;/li&gt;&#xA;&lt;li&gt;Büyük küçük - от мала до велика&lt;/li&gt;&#xA;&lt;li&gt;Enine boyuna - до мельчайших деталей, подробно&lt;/li&gt;&#xA;&lt;li&gt;Er geç - рано или поздно&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;удвоение-с-1-словом-со-смыслом-и-1-бессмысленным-словом&#34;&gt;&#xA;  Удвоение с 1 словом со смыслом и 1 бессмысленным словом&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%d1%83%d0%b4%d0%b2%d0%be%d0%b5%d0%bd%d0%b8%d0%b5-%d1%81-1-%d1%81%d0%bb%d0%be%d0%b2%d0%be%d0%bc-%d1%81%d0%be-%d1%81%d0%bc%d1%8b%d1%81%d0%bb%d0%be%d0%bc-%d0%b8-1-%d0%b1%d0%b5%d1%81%d1%81%d0%bc%d1%8b%d1%81%d0%bb%d0%b5%d0%bd%d0%bd%d1%8b%d0%bc-%d1%81%d0%bb%d0%be%d0%b2%d0%be%d0%bc&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;eğri büğrü - кривой&lt;/li&gt;&#xA;&lt;li&gt;Çoluk çocuk - детвора&lt;/li&gt;&#xA;&lt;li&gt;cümbür cemaat - всем родом, все вместе&lt;/li&gt;&#xA;&lt;li&gt;Yırtık pırtık - порванный, старый&lt;/li&gt;&#xA;&lt;li&gt;Falan filan - и так далее, и прочее&lt;/li&gt;&#xA;&lt;li&gt;Ufak tefek - очень маленькое, крошечный&lt;/li&gt;&#xA;&lt;li&gt;Eski püskü - очень старое&lt;/li&gt;&#xA;&lt;li&gt;Sıkı fıkı - очень близкий, искренний&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;с-бессмысленными-словами&#34;&gt;&#xA;  С бессмысленными словами&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%d1%81-%d0%b1%d0%b5%d1%81%d1%81%d0%bc%d1%8b%d1%81%d0%bb%d0%b5%d0%bd%d0%bd%d1%8b%d0%bc%d0%b8-%d1%81%d0%bb%d0%be%d0%b2%d0%b0%d0%bc%d0%b8&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Abuk subuk - бредовый, чушь&lt;/li&gt;&#xA;&lt;li&gt;Ivır zıvır - безделушки&lt;/li&gt;&#xA;&lt;li&gt;Abur cubur - вредная еда&lt;/li&gt;&#xA;&lt;li&gt;Apar topar - в спешке, внезапно&lt;/li&gt;&#xA;&lt;li&gt;Paldır küldür - откуда не возьмись&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;со-звукоподражанием&#34;&gt;&#xA;  Со звукоподражанием&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%d1%81%d0%be-%d0%b7%d0%b2%d1%83%d0%ba%d0%be%d0%bf%d0%be%d0%b4%d1%80%d0%b0%d0%b6%d0%b0%d0%bd%d0%b8%d0%b5%d0%bc&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tıkır tıkır - без проблемный, отличный&lt;/li&gt;&#xA;&lt;li&gt;Tıklım tıklım - многолюдный&lt;/li&gt;&#xA;&lt;li&gt;Çıtır çıtır - хрустящий&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;с-буквой-м&#34;&gt;&#xA;  С буквой М&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%d1%81-%d0%b1%d1%83%d0%ba%d0%b2%d0%be%d0%b9-%d0%bc&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ev mev&lt;/li&gt;&#xA;&lt;li&gt;Çanta manta&lt;/li&gt;&#xA;&lt;li&gt;Yemek memek&lt;/li&gt;&#xA;&lt;li&gt;Para mara&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>//localhost:1313/dopolnitelnaya-teoriya/udvoenie/</guid>
+      <description>&lt;p&gt;Коротко: что означает и как использовать «Удвоение».&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>утверждение</title>
+      <link>//localhost:1313/neobkhodimaya-teoriya/deeprichastie-inca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/neobkhodimaya-teoriya/deeprichastie-inca/</guid>
+      <description>&lt;p&gt;На русский переводим, как «когда», «после того, как», «сразу, как».&#xA;Показывает, что ко второму действию вы переходите сразу после завершения первого.&#xA;Так же может выражать причину «так как».&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Форма быстроты</title>
+      <link>//localhost:1313/dopolnitelnaya-teoriya/forma-bystroty-iver/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/dopolnitelnaya-teoriya/forma-bystroty-iver/</guid>
+      <description>&lt;p&gt;Коротко: что означает и как использовать «Форма быстроты».&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Числительные (количественные и порядковые)</title>
+      <link>//localhost:1313/dopolnitelnaya-teoriya/chislitelnye/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/dopolnitelnaya-teoriya/chislitelnye/</guid>
+      <description>&lt;p&gt;Коротко: как сказать «1, 2, 3…», «первый/второй…», «сколько?» и «который по счёту?» в турецком.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Широкое в прошлом</title>
+      <link>//localhost:1313/vremena/shirokoe-v-proshlom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/vremena/shirokoe-v-proshlom/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Geniş Zamanın Hikâyesi (-ardı/-erdi)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Меня зовут Анатолий, я морская свинка. Раньше у меня была привычка: как только слышу шуршание пакета — сразу бегу к миске. Чтобы говорить о привычках в прошлом и о «бы», в турецком часто используют форму на &lt;strong&gt;-r&lt;/strong&gt; + прошедшее &lt;strong&gt;-DI&lt;/strong&gt; (получается &lt;strong&gt;-rdı/-rdi/-rdu/-rdü&lt;/strong&gt; и варианты).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Широкое время (-r)</title>
+      <link>//localhost:1313/vremena/shirokoe-vremya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/vremena/shirokoe-vremya/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Geniş Zaman&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Широкое время удобно для привычек, общих истин и регулярных действий. Часто встречается с: her gün (каждый день), her zaman (всегда), genellikle (обычно), sık sık (часто), hiç (никогда).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

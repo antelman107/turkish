@@ -1,0 +1,22 @@
+{{/*
+	FormatDate
+
+	This partial formats a date using localized format based on the page language.
+	Automatically uses Russian month names for Russian pages and English for English pages.
+	
+	The format uses Hugo's built-in localization, which automatically detects the language
+	from the current page context. When used in loops (e.g., range site.RegularPages),
+	each page's language is automatically used.
+
+	@param {time.Time} . - The date to format (usually .Date or .PublishDate)
+
+	@return Formatted date string localized for the current page language.
+
+	@example: {{ partial "func/FormatDate.html" .Date }}
+	@example: {{ partial "func/FormatDate.html" .PublishDate }}
+*/}}
+
+{{ if . }}
+  {{ . | time.Format ":date_long" }}
+{{ end }}
+

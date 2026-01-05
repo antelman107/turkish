@@ -1,0 +1,1 @@
+python3 scripts/check_markdown_headings.py && hugo --minify && rsync -e "ssh -i ~/.ssh/useast1.pem" -avz --delete public/ ec2-user@golangforall.com:/var/www/blog/public/
