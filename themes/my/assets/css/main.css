@@ -196,3 +196,47 @@ code {
     vertical-align: ce;
     margin-bottom: 0;
 }
+
+/* Soft gray tables inside post content */
+#post-content table {
+    width: 100%;
+    margin: 0.75rem 0 1.25rem;
+    border-collapse: separate;
+    border-spacing: 0;
+    background: #ffffff;
+    border: 1px solid rgba(0, 0, 0, 0.12);
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.03);
+}
+
+#post-content table th,
+#post-content table td {
+    padding: 0.55rem 0.7rem;
+    text-align: center;
+    vertical-align: middle;
+    border-right: 1px solid rgba(0, 0, 0, 0.08);
+    white-space: nowrap;
+}
+
+#post-content table th:last-child,
+#post-content table td:last-child {
+    border-right: none;
+}
+
+#post-content table thead th,
+#post-content table tr:first-child > th {
+    background: #f1f3f5;
+    color: #343a40;
+    font-weight: 650;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.10);
+}
+
+#post-content table tbody td {
+    background: #fafbfc;
+    color: #212529;
+}
+
+#post-content table tbody tr:hover td {
+    background: #f1f3f5;
+}

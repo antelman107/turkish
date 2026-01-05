@@ -10,7 +10,7 @@ $(window).scroll(function() {
             if (!discussEnabled) {
                 discussEnabled = true
 
-                var html = '<div id="disqus_thread"></div>\n    <script>\n    (function() {\n        var d = document, s = d.createElement(\'script\');\n        s.src = \'https://the-wonderful-go.disqus.com/embed.js\';\n        s.setAttribute(\'data-timestamp\', +new Date());\n        (d.head || d.body).appendChild(s);\n    })();\n</script>'
+                var html = '<div id="disqus_thread"></div>\n<script>\nvar disqus_config = function () {\n  this.language = "ru";\n};\n(function() {\n  var d = document, s = d.createElement("script");\n  s.src = "https://the-wonderful-go.disqus.com/embed.js";\n  s.setAttribute("data-timestamp", +new Date());\n  (d.head || d.body).appendChild(s);\n})();\n</script>'
                 $(html).appendTo('#discuss');
             }
         }
