@@ -234,7 +234,7 @@ url = "/vremena/nastoyashchee-vremya-yor/"
 
 ### Утверждение
 
-- Выбираем вариант **-yor** по последней гласной в основе (подробнее: [гармония гласных](/neobkhodimaya-teoriya/garmoniya-glasnykh/)):
+- Выбираем вариант **-yor** по последней гласной в основе (подробнее: [гармония гласных](/garmoniya-glasnykh/)):
   - a / ı → **-ıyor**
   - e / i → **-iyor**
   - o / u → **-uyor**
