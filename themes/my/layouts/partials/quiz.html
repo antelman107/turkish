@@ -5,10 +5,18 @@
   
   <form id="quiz-form" data-quiz-data="{{ .Params.quiz | jsonify }}">
     {{ range $index, $question := .Params.quiz.questions }}
+    {{- $qType := $question.type -}}
+    {{- if not $qType -}}
+      {{- if $question.correct_answer -}}
+        {{- $qType = "text" -}}
+      {{- else if $question.answers -}}
+        {{- $qType = "single-choice" -}}
+      {{- end -}}
+    {{- end -}}
     <div class="quiz-question mb-4 p-3 border rounded" data-question-index="{{ $index }}">
       <h5 class="mb-3">{{ add $index 1 }}. {{ $question.question }}</h5>
       
-      {{ if eq $question.type "multiple-choice" }}
+      {{ if eq $qType "multiple-choice" }}
         {{ range $answerIndex, $answer := $question.answers }}
         <div class="form-check mb-2">
           <input class="form-check-input" type="checkbox" 
@@ -20,7 +28,7 @@
           </label>
         </div>
         {{ end }}
-      {{ else if eq $question.type "single-choice" }}
+      {{ else if eq $qType "single-choice" }}
         {{ range $answerIndex, $answer := $question.answers }}
         <div class="form-check mb-2">
           <input class="form-check-input" type="radio" 
@@ -32,7 +40,7 @@
           </label>
         </div>
         {{ end }}
-      {{ else if eq $question.type "text" }}
+      {{ else if eq $qType "text" }}
         <div class="form-group">
           <textarea class="form-control" 
                     name="question-{{ $index }}" 
@@ -133,7 +141,8 @@
         return;
       }
       
-      if (question.type === 'multiple-choice' || question.type === 'single-choice') {
+      const qType = question.type || (Array.isArray(question.answers) ? 'single-choice' : (question.correct_answer ? 'text' : ''));
+      if (qType === 'multiple-choice' || qType === 'single-choice') {
         if (!question.answers || !Array.isArray(question.answers)) {
           console.error('Invalid answers for question:', qIndex);
           return;
@@ -182,7 +191,7 @@
             }
           });
         }
-      } else if (question.type === 'text') {
+      } else if (qType === 'text') {
         const textarea = questionDiv.querySelector('textarea');
         const correctAnswerDiv = questionDiv.querySelector('[data-correct-answer]');
         

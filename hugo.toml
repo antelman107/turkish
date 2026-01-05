@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://turkish.goturkey.club'
 languageCode = 'ru-ru'
 title = 'Турецкий с Анатолием'
 theme = 'my'
