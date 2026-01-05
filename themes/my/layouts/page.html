@@ -58,6 +58,7 @@
     {{ .Content }}
     {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
     </div>
+    {{ partial "edit-on-github.html" . }}
     {{ partial "quiz.html" . }}
     {{ partial "related-articles.html" . }}
     <script defer src="/discuss.js"></script>

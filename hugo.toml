@@ -4,6 +4,10 @@ title = 'Турецкий с Анатолием'
 theme = 'my'
 defaultContentLanguage = 'ru'
 
+[params]
+  githubRepo = "https://github.com/antelman107/turkish"
+  githubBranch = "main"
+
 [languages]
     [languages.ru]
       weight = 1
