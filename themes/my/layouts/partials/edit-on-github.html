@@ -12,13 +12,7 @@ Shows only when the page has a backing content file (.File is available).
 
   <hr class="mt-5 mb-4">
   <p class="small text-muted">
-    {{- if eq .Lang "ru" -}}
-      Если вы хотите доработать статью, перейдите по ссылке в
-      <a href="{{ $url }}" target="_blank" rel="noopener">GitHub</a>.
-    {{- else -}}
-      Want to improve this article? Open it on
-      <a href="{{ $url }}" target="_blank" rel="noopener">GitHub</a>.
-    {{- end -}}
+      Данный сайт полностью open source, вы можете перейти в <a href="{{ $url }}" target="_blank" rel="noopener">GitHub</a> и изменить статью.
   </p>
 {{- end -}}
 
