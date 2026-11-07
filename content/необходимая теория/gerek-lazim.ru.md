@@ -1,6 +1,6 @@
 +++
-title = "Gerek, lâzım"
-level = "A2"
+title = "Gerek, lâzım, zorunda"
+level = "B1"
 draft = false
 url = '/neobkhodimaya-teoriya/gerek-lazim/'
 aliases = ['/drugaya-teoriya/geker-lazim/']
@@ -45,3 +45,14 @@ aliases = ['/drugaya-teoriya/geker-lazim/']
   - тебе не нужно идти
 - Gitmene gerek yok 
   - тебе не нужно идти 
+
+### Zorunda (обязан, вынужден)
+
+Инфинитив + **zorunda**:
+
+- **Gitmek zorundayım.** — Я обязан идти.  
+- **Çalışmak zorundayız.** — Мы вынуждены работать.  
+
+Отрицание:
+
+- **Gitmek zorunda değilim.** — Я не обязан идти.  

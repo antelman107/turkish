@@ -36,7 +36,7 @@ Renders a list of related articles that share at least one tag with the current 
   {{- if gt (len $relatedArticles) 0 }}
     {{- $relatedArticles = first 6 $relatedArticles }}
     <hr class="mt-5 mb-4">
-    <h3 class="mb-4">{{ if eq $page.Lang "ru" }}Похожие статьи{{ else }}Related Articles{{ end }}</h3>
+    <h3 class="mb-4">Похожие статьи</h3>
     <div class="row">
       {{- range $relatedArticles }}
       <div class="col-md-6 mb-4">

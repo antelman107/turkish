@@ -1,6 +1,6 @@
 +++
 title = "Форма быстроты"
-level = "A2"
+level = "C1"
 draft = false
 url = '/dopolnitelnaya-teoriya/forma-bystroty-iver/'
 aliases = ['/drugaya-teoriya/forma-bystroty-iver/']

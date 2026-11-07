@@ -1,6 +1,6 @@
 +++
 title = "-mış gibi yapmak"
-level = "B1"
+level = "C1"
 draft = false
 url = '/dopolnitelnaya-teoriya/mis-gibi-yapmak/'
 aliases = ['/drugaya-teoriya/mis-gibi-yapmak/']

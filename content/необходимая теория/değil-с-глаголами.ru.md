@@ -1,6 +1,6 @@
 +++
 title = "Değil с глаголами"
-level = "A2"
+level = "C1"
 draft = false
 url = '/neobkhodimaya-teoriya/degil-s-glagolami/'
 aliases = ['/drugaya-teoriya/degil-s-glagolami/']

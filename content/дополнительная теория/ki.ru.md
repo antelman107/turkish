@@ -1,35 +1,103 @@
 +++
-title = 'Ki'
-level = "A1"
-url = '/ki/'
+title = "Все варианты ki"
+level = "C1"
+draft = false
+url = "/ki/"
 
+[quiz]
+  [[quiz.questions]]
+    question = "Выберите правильный вариант: «сегодняшний»."
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "bugünkü"
+      correct = true
+    [[quiz.questions.answers]]
+      text = "bugünki"
+      correct = false
+    [[quiz.questions.answers]]
+      text = "bugün ki"
+      correct = false
+
+  [[quiz.questions]]
+    question = "Выберите правильный вариант: «моя — красная, твоя — желтая»."
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Benimki kırmızı, seninki sarı."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Benim ki kırmızı, senin ki sarı."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Benimki kırmızı, senin kırmızı."
+      correct = false
+
+  [[quiz.questions]]
+    question = "Выберите правильный вариант: «Так красиво, что…»."
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "O kadar güzel ki..."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "O kadar güzelki..."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "O kadar güzel ki."
+      correct = false
+
+  [[quiz.questions]]
+    question = "Выберите правильный вариант: «который в комнате»."
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "odadaki"
+      correct = true
+    [[quiz.questions.answers]]
+      text = "oda ki"
+      correct = false
+    [[quiz.questions.answers]]
+      text = "odada ki"
+      correct = false
+
+  [[quiz.questions]]
+    question = "Выберите правильный вариант с союзом ki."
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Biliyorum ki gelecek."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Biliyorumki gelecek."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Biliyorum gelecek."
+      correct = false
 +++
-Который, такой, что...
+Частица **ki** бывает в трех основных ролях: суффикс **-ki**, местоимение **-ki**, и союз **ki** (пишется отдельно).
 
 <!--more-->
 
-### Чтобы сделать прилагательное из существительного
+## 1) Суффикс -ki (временной/локативный)
 
-- Akşam – akşamki
-- Sabah – sabahki
-- Bugün – bugünkü
-- Dün – dünkü
-- Gün – günkü
-- Geçen haftaki 
+Присоединяется к словам времени и места:
 
-### Который
-используется с местами, для уточнения мест, для сокращения предложения.
+- **bugünkü** — сегодняшняя  
+- **dünkü** — вчерашняя  
+- **evdeki** — тот, кто в доме  
 
-- Masada kitap var. O kitap eski – Masadaki kitap eski – Книга, которая на столе – старая.
-- Balkonda adam oturuyor. O gazete okuyor – Balkondaki adam kitap okuyor
+## 2) Местоимение -ki (мой/твой/его и т.д.)
 
-### Чтобы не повторять одно и то же слово
+Используется вместо повторения существительного:
 
-- Benim defterim kırmızı senin defterin sarı – Benim defterim kırmızı senin**ki** sarı
-- Benim telefonum bozuldu senin**ki**ni kullanıyorum
+- **Benim defterim kırmızı, seninki sarı.**  
+- **Bu benim, şu seninki.**  
 
-### Союз Ki 
-Пишется раздельно
+## 3) Союз ki (отдельно)
 
-Добавляет эмоциональность если поставить в конце.
-- O kadar güzel ki! – Настолько Ki!
+Связывает части предложения, часто передает «что» или усиление:
+
+- **Biliyorum ki gelecek.** — Я знаю, что он придет.  
+- **O kadar yorgunum ki uyuyorum.** — Я так устал, что засыпаю.  
+
+{{< svin >}}
+Я свинка Анатолий и говорю: «**Bugünkü havuçlar çok güzel.**» — «Сегодняшняя морковка очень хорошая».  
+Потом добавляю: «**Benimki büyük, seninki küçük.**» — «Моя большая, твоя маленькая».  
+И уточняю: «**O kadar açım ki konuşamıyorum.**» — «Я так голоден, что не могу говорить».
+{{< /svin >}}

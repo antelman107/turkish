@@ -1,6 +1,6 @@
 +++
 title = "Dır-dir-dur-dür – tır-tir-tur-tür"
-level = "A2"
+level = "B1"
 draft = false
 url = '/neobkhodimaya-teoriya/dir/'
 aliases = ['/drugaya-teoriya/dir/']

@@ -1,68 +1,104 @@
 +++
-title = "Согласно кому-либо (göre)"
-level = "A2"
+title = "dık göre / dık kadarıyla"
+level = "C1"
 draft = false
-url = '/dopolnitelnaya-teoriya/kadariyla-gore/'
-aliases = ['/drugaya-teoriya/kadariyla-gore/']
+url = "/dopolnitelnaya-teoriya/kadariyla-gore/"
+aliases = ["/drugaya-teoriya/kadariyla-gore/"]
+
+[quiz]
+  [[quiz.questions]]
+    question = "Выберите правильную форму: «По тому, что я слышал…»."
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Duyduğuma göre..."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Duyduğuma kadarıyla..."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Duyduğum için..."
+      correct = false
+
+  [[quiz.questions]]
+    question = "Выберите правильную форму: «Насколько я знаю…»."
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Bildiğim kadarıyla..."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Bildiğime göre..."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Bildiğim için..."
+      correct = false
+
+  [[quiz.questions]]
+    question = "Переведите: «По словам учителя…»."
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Öğretmenin dediğine göre..."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Öğretmenin dediği kadarıyla..."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Öğretmenin dediği için..."
+      correct = false
+
+  [[quiz.questions]]
+    question = "Выберите правильный вариант: «Насколько я вижу…»."
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Gördüğüm kadarıyla..."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Gördüğüme göre..."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Gördüğüm için..."
+      correct = false
+
+  [[quiz.questions]]
+    question = "Выберите правильную форму: «Согласно расписанию…»."
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Programa göre..."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Programın kadarıyla..."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Program için..."
+      correct = false
 +++
-**Duyduğuma göre** — как слышал
+Конструкции **-dığına göre** и **-dığı kadarıyla** выражают «по тому, что…» и «насколько я знаю/вижу».
 
 <!--more-->
 
-#### Образование
+## dık göre
 
-Основа глагола + dık duk dük dık tık tük tuk tük + принадлежность + направительный падеж göre.
+Основа + **-dık/-dik/-duk/-dük** + притяжательное + **-a/-e göre**:
 
-Когда причастие в значении "по мнению", то обычно используется в **объектном падеже** (по).
+- **Duyduğuma göre** — по тому, что я слышал  
+- **Söylediğine göre** — по его словам  
 
-Но в значении "раз" может применяться в любом времени.
+## dık kadarıyla
 
-- **Duyduğuma göre** — как слышал
-- **Söylediğine göre** — по тому, что он говорит
-- **Gördüğüne göre** — согласно по тому, как я узнала
-- **Geldiğine göre** — так как он пришел
-- **Konuştuklarına göre** — как говорят; согласно по разговорам
+Основа + **-dık/-dik/-duk/-dük** + притяжательное + **kadarıyla**:
 
-#### Примеры
+- **Bildiğim kadarıyla** — насколько я знаю  
+- **Gördüğüm kadarıyla** — насколько я вижу  
 
-1. **Beni dinlemediğine göre her şey kötüymuşçasına galiba** — Раз вы меня не слушаете, кажется все плохо.
+## С существительными: göre
 
-2. **Ayşe gülümsemesine göre bir şey çıkmış** — Раз Айше улыбается, что-то наверно произошло в таком случае; подобное дословный такой вид -где-то говорили.
+Можно использовать с существительным:
 
-3. **Annem kanattığına göre çok kitap okurmuş** — По тому, что я просчитала в тапках ожиданий, возможно! либо очень много.
+- **bana göre** — по-моему  
+- **hava durumuna göre** — согласно погоде  
+- **kurala göre** — по правилу  
 
-4. **Annem anlattığıma göre bu akimbo eskiden çok kitap okurmuş** — По словам мамы, мы делали. Слушаю очень разрядом.
-
-5. **Babamın beni bilirlidiğine göre dayım çıkabiliriz** — Раз ты меня не слушаешь, в таком случае он таковы.
-
-6. **Söyledikleri birbirine göre konuşabiliriz** — Раз ты понимаешь хорошо, может быть, данные снова слышны честь.
-
----
-
-### С существительными: Существительное + (y)a/e
-
-- **Ayşe'ye göre** — по мнению Айше
-- **Kitaba göre** — по тому же
-- **bana göre** — по-моему
-
----
-
-- **kadarıyla — насколько и честно**
-
-### Основа глагола + dık duk dük dık tık tük tuk tük + принадлежность kadarıyla
-
-Нет ограничений в плане времени, может быть использовано любое время.
-
-- **Bildiğim kadarıyla** — насколько я знаю
-- **Giydiğim kadarıyla** — (уже давно насыпал(и) подружка спросила)
-
-- **Ne yedikleri kadarıylaç anlamalıyım — каким разумом я могу запомнить
-
-1. **Bildiğim kadarıyla hemen gördün/с ними наисие. (ному?), что они сейчас видели: значит видели**
-
-- **Gördüğüm kadarıyla çok emuymuşlar** — Как я знаю по примеру мира!
-- **Gördüğüm kadarıyla çok komikmiş.** — Как я знаю по комику, он сейчас комик.
-
-2. **Göreni kanattığını göre çok komuşlar — Разве если большое число комичек высокие как могу запомнить, что они таковы?
-
-3. **Anlatık çok olmuşmuş çok olmuşlar** — Закрыт сыграл. Это из истории безписина, увидел книгу о не комических раз!
+{{< svin >}}
+Я свинка Анатолий и говорю: «**Duyduğuma göre havuç pahalıymış.**» — «По слухам морковка подорожала».  
+Потом добавляю: «**Bildiğim kadarıyla bugün indirim var.**» — «Насколько я знаю, сегодня есть скидки».  
+И уточняю: «**Bana göre en güzel sebze havuç.**» — «По-моему, лучший овощ — морковь».
+{{< /svin >}}

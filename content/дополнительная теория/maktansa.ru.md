@@ -1,6 +1,6 @@
 +++
 title = "Вместо того (maktansa, yerine, varken, acağına)"
-level = "B1"
+level = "C1"
 draft = false
 url = '/dopolnitelnaya-teoriya/maktansa/'
 aliases = ['/drugaya-teoriya/maktansa/']
