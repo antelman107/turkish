@@ -1,6 +1,6 @@
 +++
 title = "Деепричастие **Dıkça/dikçe/dukca/dükçe/tukca/tikce/tukça/tükçe**"
-level = "B1"
+level = "B2"
 draft = false
 url = '/dopolnitelnaya-teoriya/dikca/'
 aliases = ['/drugaya-teoriya/dikca/']

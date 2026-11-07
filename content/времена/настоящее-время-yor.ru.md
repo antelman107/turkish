@@ -3,7 +3,7 @@ title = "Настоящее время (-yor)"
 level = "A1"
 draft = false
 tags = ["настоящее"]
-featured_image = 'present.png'
+featured_image = 'present.webp'
 url = "/vremena/nastoyashchee-vremya-yor/"
 
 [quiz]

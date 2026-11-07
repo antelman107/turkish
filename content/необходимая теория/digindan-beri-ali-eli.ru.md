@@ -1,6 +1,6 @@
 +++
 title = "-alı/-eli и -(d)ığından beri"
-level = "B1"
+level = "B2"
 draft = false
 url = "/neobkhodimaya-teoriya/digindan-beri-ali-eli/"
 

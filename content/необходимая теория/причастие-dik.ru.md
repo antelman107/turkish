@@ -1,6 +1,6 @@
 +++
 title = 'Причастие dık'
-level = "B1"
+level = "B2"
 url = '/neobkhodimaya-teoriya/prichastie-dik/'
 aliases = ['/drugaya-teoriya/prichastie-dik/']
 

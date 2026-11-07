@@ -1,6 +1,6 @@
 +++
 title = "1. SÜRECE"
-level = "B1"
+level = "B2"
 draft = false
 url = '/dopolnitelnaya-teoriya/surece/'
 aliases = ['/drugaya-teoriya/surece/']

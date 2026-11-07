@@ -1,6 +1,6 @@
 +++
 title = "Деепричастия - ana kadar и ıncaya kadar"
-level = "B1"
+level = "B2"
 draft = false
 url = '/deeprichastiya-kadar/'
 
