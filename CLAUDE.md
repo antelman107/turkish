@@ -29,9 +29,10 @@ featured_image = 'slug.webp'
 
 Для генерации новых изображений — скрипт с готовыми промптами для всех статей:
 ```bash
-OPENAI_API_KEY=sk-... python3 scripts/generate_images.py
+pip install google-genai
+GEMINI_API_KEY=... python3 scripts/generate_images.py
 ```
-Скрипт вызывает DALL-E 3, конвертирует в WebP через `cwebp -q 85`, добавляет `featured_image` в frontmatter. Все промпты хранятся в `scripts/generate_images.py`.
+Ключ бесплатно на https://aistudio.google.com/apikey. Скрипт использует **Imagen 3** (google-genai), конвертирует в WebP через `cwebp -q 85`, добавляет `featured_image` в frontmatter. Все промпты хранятся в `scripts/generate_images.py`.
 
 Изображения хранятся в WebP (оптимизированы через `cwebp -q 85`). Исходные PNG после конвертации удаляются.
 

@@ -1,17 +1,19 @@
 #!/usr/bin/env python3
 """
-Generate featured images for Turkish grammar articles using DALL-E 3.
+Generate featured images for Turkish grammar articles using Imagen 3 (Gemini API).
 
 Usage:
-    OPENAI_API_KEY=sk-... python3 scripts/generate_images.py
+    GEMINI_API_KEY=... python3 scripts/generate_images.py
+
+Get a free API key at: https://aistudio.google.com/apikey
 
 The script will:
-  1. Generate each image via DALL-E 3
+  1. Generate each image via Imagen 3 (google-genai)
   2. Convert PNG → WebP using cwebp
   3. Add `featured_image = 'slug.webp'` to each article's frontmatter
 
 Requirements:
-    pip install openai
+    pip install google-genai
     brew install webp  (for cwebp)
 """
 
@@ -20,13 +22,13 @@ import re
 import sys
 import time
 import subprocess
-import urllib.request
 from pathlib import Path
 
 try:
-    from openai import OpenAI
+    from google import genai
+    from google.genai import types as genai_types
 except ImportError:
-    print("Run: pip install openai")
+    print("Run: pip install google-genai")
     sys.exit(1)
 
 STATIC_DIR = Path(__file__).parent.parent / "themes/my/static"
@@ -353,10 +355,6 @@ ARTICLES: dict[str, tuple[str, str]] = {
 }
 
 
-def download_image(url: str, dest: Path) -> None:
-    urllib.request.urlretrieve(url, dest)
-
-
 def to_webp(png_path: Path, webp_path: Path) -> None:
     result = subprocess.run(
         ["cwebp", "-q", "85", str(png_path), "-o", str(webp_path)],
@@ -382,12 +380,13 @@ def add_featured_image(md_path: Path, image_slug: str) -> None:
 
 
 def main() -> None:
-    api_key = os.environ.get("OPENAI_API_KEY")
+    api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
-        print("Set OPENAI_API_KEY environment variable.")
+        print("Set GEMINI_API_KEY environment variable.")
+        print("Get a free key at: https://aistudio.google.com/apikey")
         sys.exit(1)
 
-    client = OpenAI(api_key=api_key)
+    client = genai.Client(api_key=api_key)
 
     already_done = {p.stem for p in STATIC_DIR.glob("*.webp")}
     todo = [
@@ -409,15 +408,17 @@ def main() -> None:
 
         print(f"[{i}/{len(todo)}] {slug} ...", end=" ", flush=True)
         try:
-            response = client.images.generate(
-                model="dall-e-3",
+            response = client.models.generate_images(
+                model="imagen-3.0-generate-001",
                 prompt=prompt,
-                size="1024x1024",
-                quality="standard",
-                n=1,
+                config=genai_types.GenerateImagesConfig(
+                    number_of_images=1,
+                    aspect_ratio="1:1",
+                    output_mime_type="image/png",
+                ),
             )
-            url = response.data[0].url
-            download_image(url, png_path)
+            image_bytes = response.generated_images[0].image.image_bytes
+            png_path.write_bytes(image_bytes)
             to_webp(png_path, webp_path)
             png_path.unlink()  # remove PNG, keep only WebP
             add_featured_image(md_path, slug)
@@ -426,9 +427,9 @@ def main() -> None:
             print(f"ERROR: {e}")
             continue
 
-        # Rate limit: 5 images/min on DALL-E 3 standard tier
+        # Imagen 3 free tier: ~10 req/min — pause 7s to stay safe
         if i < len(todo):
-            time.sleep(13)
+            time.sleep(7)
 
     print("\nDone! Run `hugo` and deploy.")
 
