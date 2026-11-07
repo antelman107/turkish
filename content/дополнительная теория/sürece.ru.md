@@ -124,3 +124,9 @@ aliases = ['/drugaya-teoriya/surece/']
   Чем больше читаешь, тем больше расширяется словарный запас.
 - Seni gördükçe mutlu oluyorum.  
   Каждый раз, когда тебя вижу, я радуюсь.
+
+{{< svin >}}
+Я свинка Анатолий и говорю: «**Kafeste kaldığım sürece güvende hissediyorum.**» — «Пока я в клетке, я чувствую себя в безопасности».  
+Потом добавляю: «**Yaz süresince her sabah balkona çıktım.**» — «Всё лето каждое утро я выходил на балкон».  
+И уточняю: «**Saman yedikçe daha da iştahlanıyorum.**» — «Чем больше ем сено, тем больше хочется».
+{{< /svin >}}

@@ -32,3 +32,9 @@ aliases = ['/drugaya-teoriya/ana-kadar-incaya-kadar/']
 2.  **Yemek yiyene kadar ellerini yıka.** - *Мой руки пока не сядешь есть (то есть длительность показываете, мой руки до тех пор...)*
 3.  **Ben evden çıkmadan önce bütün ışıkları kontrol ederim** - *до выхода из дома я проверю свет везде*
     4
+
+{{< svin >}}
+Я свинка Анатолий и говорю: «**Sahip gelene kadar kafeste bekledim.**» — «Я ждал в клетке, пока не пришёл хозяин».  
+Потом добавляю: «**Uyuyuncaya kadar çarkta koştum.**» — «Я бежал в колесе, пока не уснул».  
+И уточняю: «**Yemekler bitene kadar masanın yanında oturdum.**» — «Я сидел рядом со столом, пока не кончилась еда».
+{{< /svin >}}

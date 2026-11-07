@@ -15,8 +15,11 @@
     <hr/>
 
     {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
+    {{ $toc := .TableOfContents }}
+    {{ $hasTOC := and $toc (findRE "<ul>" $toc) }}
+
     {{ if $featured_image }}
-    <!-- Preview Image -->
+    <!-- Image + TOC side by side -->
     <div class="container">
         <div class="row mx-0 my-0">
             <div class="col-md-8">
@@ -26,8 +29,7 @@
                      alt="{{ .Title }}"/>
             </div>
             <div class="col-md-4">
-                {{ $toc := .TableOfContents }}
-                {{ if and $toc (findRE "<ul>" $toc) }}
+                {{ if $hasTOC }}
                 <nav id="toc">
                     <h5>{{ i18n "tableOfContents" }}</h5>
                     {{ $toc }}
@@ -37,27 +39,36 @@
         </div>
     </div>
     <hr>
-    {{ end }}
-    {{ if not $featured_image }}
-    <div class="float-right">
-        <div>
-            {{ $toc := .TableOfContents }}
-            {{ if and $toc (findRE "<ul>" $toc) }}
-            <nav id="toc">
+    <div id="post-content">
+        {{ .Content }}
+        {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+    </div>
+
+    {{ else if $hasTOC }}
+    <!-- No image: TOC right on desktop, stacked above content on mobile -->
+    <div class="row">
+        <div class="col-12 col-md-8 order-last order-md-first">
+            <div id="post-content">
+                {{ .Content }}
+                {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+            </div>
+        </div>
+        <div class="col-12 col-md-4 order-first order-md-last">
+            <nav id="toc" class="mb-3">
                 <h5>{{ i18n "tableOfContents" }}</h5>
                 {{ $toc }}
             </nav>
-            {{ end }}
-        </div>
-        <div>
         </div>
     </div>
-    {{end}}
 
+    {{ else }}
+    <!-- No image, no TOC -->
     <div id="post-content">
-    {{ .Content }}
-    {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+        {{ .Content }}
+        {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
     </div>
+    {{ end }}
+
     {{ partial "edit-on-github.html" . }}
     {{ partial "quiz.html" . }}
     {{ partial "related-articles.html" . }}

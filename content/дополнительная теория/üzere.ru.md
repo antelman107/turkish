@@ -34,3 +34,9 @@ Dinlenmek üzere ara verdik – Чтобы отдохнуть мы сделал�
   Amerikaya gitmek üzere vize almam lazım – Чтобы поехать в Америку надо получить визу
 
 #### Формула: Инфинитив + üzere
+
+{{< svin >}}
+Я свинка Анатолий и говорю: «**Kafesten çıkmak üzereyim!**» — «Я вот-вот выберусь из клетки!».  
+Потом добавляю: «**Dinlenmek üzere çarkı durdurdum.**» — «Я остановил колесо, чтобы отдохнуть».  
+И уточняю: «**Uyumak üzereydim ki saman düştü.**» — «Я уже почти заснул, как упало сено».
+{{< /svin >}}

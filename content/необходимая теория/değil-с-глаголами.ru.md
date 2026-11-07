@@ -28,3 +28,9 @@ aliases = ['/drugaya-teoriya/degil-s-glagolami/']
 
 * **Bu işi 10 kişi değil 15 kişi bile yapamaz** - Это дело не то, что 10, даже 15 человек не сделают
 * **Bunu Ayşe değil Ahmet bile bilemez** -
+
+{{< svin >}}
+Я свинка Анатолий и говорю: «**Çarkı bırakmış değilim, sadece ara verdim.**» — «Не то чтобы я бросил колесо — просто сделал перерыв».  
+Потом добавляю: «**Korkmayacak değilim ama kaçmayacağım da.**» — «Не то чтобы не боюсь, но и убегать не стану».  
+И уточняю: «**Bunu ben değil, diğer svinka bile yapamaz.**» — «Это не то что я — даже другая свинка не сможет».
+{{< /svin >}}

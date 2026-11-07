@@ -34,3 +34,9 @@ aliases = ['/drugaya-teoriya/dir/']
 Если речь о будущем, то ставим **acak ecek**
 
 - Gelecektir – скорее всего придёт
+
+{{< svin >}}
+Я свинка Анатолий и говорю: «**Saman en lezzetli yiyecektir.**» — «Сено, наверное, самая вкусная еда».  
+Потом добавляю: «**Sahip eve gitmiştir, birazdan döner.**» — «Хозяин, скорее всего, ушёл домой — скоро вернётся».  
+И уточняю: «**Doğrudur, kafes en güvenli yerdir.**» — «Это правда — клетка самое безопасное место».
+{{< /svin >}}

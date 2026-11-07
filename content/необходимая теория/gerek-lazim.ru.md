@@ -56,3 +56,9 @@ aliases = ['/drugaya-teoriya/geker-lazim/']
 Отрицание:
 
 - **Gitmek zorunda değilim.** — Я не обязан идти.  
+
+{{< svin >}}
+Я свинка Анатолий и говорю: «**Her gün biraz koşmam lazım.**» — «Мне нужно немного бегать каждый день».  
+Потом добавляю: «**Dışarı çıkmana gerek yok, saman burada.**» — «Тебе не нужно выходить — сено здесь».  
+И уточняю: «**Korkutmak zorunda değilim, sadece pıkpık yapıyorum.**» — «Мне не обязательно пугать — я просто пищу».
+{{< /svin >}}

@@ -46,3 +46,9 @@ aliases = ['/drugaya-teoriya/acagi-kadar/']
 11. **Can matematik okuduğu kadar edebiyatta da başarılı bir öğrenci.** - *Джан так же успешен в литературе, как и в математике.*
 12. **Henüz bu olayların nedenini anlamayacak kadar küçüksün.** - *Ты ещё слишком мал, чтобы понять причины этих событий. (Ты настолько маленький, что не поймешь.)*
 13. **Bugünkü çalışacağımız kadar çalıştık yarınki yarım hallederiz.** - *На сегодня мы поработали столько, сколько планировали, остальное сделаем завтра.*
+
+{{< svin >}}
+Я свинка Анатолий и говорю: «**Sandığım kadar soğuk değildi bu gece.**» — «Эта ночь оказалась не такой холодной, как я думал».  
+Потом добавляю: «**Korktuğum kadar büyük değildi o köpek.**» — «Та собака оказалась не такой большой, как я боялся».  
+И уточняю: «**İstediğim kadar elma yiyebiliyorum kafeste.**» — «В клетке я могу есть яблок сколько хочу».
+{{< /svin >}}

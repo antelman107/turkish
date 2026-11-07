@@ -34,3 +34,9 @@ aliases = ['/drugaya-teoriya/deeprichastie-dik/']
   - Основа глагола + acak/ecek+принадлежности zaman
 - Yarın derse geleceğim zaman kitap okuyacağım
   - Yaşlanacağınız zaman saçlarınız beyazlayacak 
+
+{{< svin >}}
+Я свинка Анатолий и говорю: «**Ben eve geldiğimde yemekler hazırdı.**» — «Когда я пришёл домой, еда была готова».  
+Потом добавляю: «**Sahip beni aldığında çok küçüktüm.**» — «Когда хозяин взял меня, я был совсем маленьким».  
+И уточняю: «**Dışarı çıkacağım zaman hava yağmurluydu.**» — «Когда я собирался выйти, на улице шёл дождь».
+{{< /svin >}}

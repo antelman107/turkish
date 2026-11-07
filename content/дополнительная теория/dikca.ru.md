@@ -32,3 +32,9 @@ aliases = ['/drugaya-teoriya/dikca/']
 
 - **Oldukça** — довольно, достаточно, очень
 - **Gitgide** — с каждым разом, постепенно
+
+{{< svin >}}
+Я свинка Анатолий и говорю: «**Çarkta koştukça daha enerjik hissediyorum.**» — «Чем больше бегу в колесе, тем бодрее себя чувствую».  
+Потом добавляю: «**Lahana yedikçe daha da iştahlanıyorum.**» — «Чем больше ем капусту, тем больше хочется».  
+И уточняю: «**Uyumadıkça huzursuz oluyorum.**» — «Пока не поплю, чувствую беспокойство».
+{{< /svin >}}

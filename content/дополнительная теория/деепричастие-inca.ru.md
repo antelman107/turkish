@@ -25,4 +25,10 @@ aliases = ['/drugaya-teoriya/deeprichastie-inca/']
 
 - Seni göremeyince çok üzüldüm 
   - не увидев тебя я очень расстроился (так как я не увидел)
-0- Ders yapmayınca annem çok kızıyor 
+0- Ders yapmayınca annem çok kızıyor
+
+{{< svin >}}
+Я свинка Анатолий и говорю: «**Kapı açılınca hemen dışarı koştum.**» — «Как только дверь открылась, я тут же выбежал наружу».  
+Потом добавляю: «**Lahana görünce çığlık attım.**» — «Когда увидел капусту, я завизжал от радости».  
+И уточняю: «**Seni göremeyince çok üzüldüm.**» — «Не увидев тебя, я очень расстроился».
+{{< /svin >}} 

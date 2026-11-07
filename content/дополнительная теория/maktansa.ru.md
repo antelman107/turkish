@@ -30,3 +30,9 @@ aliases = ['/drugaya-teoriya/maktansa/']
 - **UyuYACAĞINA git biraz dolaş**
 - **Ders yapacağıma film izledim**
 - **Spor yapacağıma her gün 10 000 adım yürüyorum** – Вместо того, чтобы заниматься каждый день хожу 10 тысяч шагов
+
+{{< svin >}}
+Я свинка Анатолий и говорю: «**Üzülmektense biraz koşsam daha iyi.**» — «Вместо того чтобы грустить, лучше немного пробегусь».  
+Потом добавляю: «**Kafeste oturmak yerine dışarıda oynasam?**» — «Вместо того чтобы сидеть в клетке, поиграть на улице?».  
+И уточняю: «**Havuç yiyeceğime salatalık yedim.**» — «Вместо того чтобы есть морковку, я съел огурец».
+{{< /svin >}}

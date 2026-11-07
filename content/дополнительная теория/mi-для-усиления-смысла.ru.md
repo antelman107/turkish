@@ -26,3 +26,9 @@ aliases = ['/drugaya-teoriya/mi-dlya-usileniya-smysla/']
 * **"Söyledim mi söyledim"** - *«Уж если я сказал — то сказал!»/ Я же говорил!/ Говорил? Говорил!*
 * **"Sınavı geçtim mi geçtim"** - *«Экзамен сдал — сдал!» (без сомнений, факт состоялся)*
 * **"Yaptık mı yaptık"** - *Сделали — еще как сделали!*
+
+{{< svin >}}
+Я свинка Анатолий и говорю: «**Tatlı mı tatlı bir maydanoz yedim bugün!**» — «Съел сегодня сладкую-пресладкую петрушку!».  
+Потом добавляю: «**Söyledim mi söyledim, kafes en güvenli yerdir.**» — «Говорил же — клетка самое безопасное место».  
+И уточняю: «**Koştum mu koştum, çarkı bitiremedim!**» — «Бежал — ещё как бежал, всё равно колесо не одолел!».
+{{< /svin >}}

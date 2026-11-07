@@ -41,3 +41,9 @@ aliases = ['/drugaya-teoriya/bilir-forma-vozmozhnosti/']
 - Bugün biraz erken başlayabilir miyiz?
 - Sen kardeşinle anlaşabiliyor musun?
 - Yarın bize gelebilecek misin? 
+
+{{< svin >}}
+Я свинка Анатолий и говорю: «**Dışarı çıkabilir miyim?**» — «Могу я выйти на улицу?».  
+Потом добавляю: «**Bu kadar saman yiyemeyebilirim, çok fazla.**» — «Возможно, я не смогу съесть столько сена — слишком много».  
+И уточняю: «**Çarkta bir saat koşabiliyorum, hiç yorulmuyorum.**» — «Я могу бегать в колесе час и совсем не устаю».
+{{< /svin >}}

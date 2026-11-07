@@ -27,4 +27,10 @@ url = '/deeprichastiya-kadar/'
 1. Yemek yemeden önce ellerini yıka - до того, как есть помой руки (не выполняй первое действие не выполнив второе)
 2. Yemek yiyene kadar ellerini yıka - мой руки пока не сядешь есть (то есть длительность показываете, мой руки до тех пор…)
 3. Ben evden çıkmadan önce bütün ışıkları kontrol ederim - до выхода из дома я проверяю свет везде
-4. Evden çıkana kadar ışıkları kontrol ederim - проверяю свет, пока не выйду из дома ( то есть длительно это делаю, весь этот отрезок я занят вторым действием) 
+4. Evden çıkana kadar ışıkları kontrol ederim - проверяю свет, пока не выйду из дома ( то есть длительно это делаю, весь этот отрезок я занят вторым действием)
+
+{{< svin >}}
+Я свинка Анатолий и говорю: «**Sahip gelene kadar kafeste bekliyorum.**» — «Жду в клетке, пока не придёт хозяин».  
+Потом добавляю: «**Uyuyuncaya kadar çıtırtı yapmaya devam ettim.**» — «Шуршал, пока не уснул».  
+И уточняю: «**Yemek bitene kadar masanın önünden ayrılmadım.**» — «Не отходил от стола, пока еда не закончилась».
+{{< /svin >}}
