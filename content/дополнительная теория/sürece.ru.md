@@ -4,6 +4,72 @@ level = "B1"
 draft = false
 url = '/dopolnitelnaya-teoriya/surece/'
 aliases = ['/drugaya-teoriya/surece/']
+
+[quiz]
+  [[quiz.questions]]
+    question = "Что означает «Sen yanımda olduğun sürece korkmam»?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Пока ты рядом, я не боюсь."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Если ты будешь рядом, я не буду бояться."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "После того как ты будешь рядом, я не буду бояться."
+      correct = false
+
+  [[quiz.questions]]
+    question = "Как образуется «-dığı sürece»?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "основа + -dığı/-diği/-duğu/-düğü + sürece"
+      correct = true
+    [[quiz.questions.answers]]
+      text = "основа + -ana/-ene + sürece"
+      correct = false
+    [[quiz.questions.answers]]
+      text = "существительное + sürece"
+      correct = false
+
+  [[quiz.questions]]
+    question = "Переведите: «Во время отпуска я прочитал много книг»."
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Tatil süresince çok kitap okudum."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Tatil sürece çok kitap okudum."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Tatil boyunca çok kitap okuyorum."
+      correct = false
+
+  [[quiz.questions]]
+    question = "Чем отличается «süresince» от «boyunca»?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "süresince — формальнее, boyunca — разговорнее и шире (может быть о пространстве тоже)"
+      correct = true
+    [[quiz.questions.answers]]
+      text = "boyunca — только о времени, süresince — о пространстве"
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Они полностью синонимичны"
+      correct = false
+
+  [[quiz.questions]]
+    question = "Что означает «Yaşadıkça öğreniyoruz»?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Мы учимся по мере того, как живём."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Мы учимся до тех пор, пока живём."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Пока мы живём, мы не учимся."
+      correct = false
 +++
 ### 1. SÜRECE (-DIĞI sürece)
 

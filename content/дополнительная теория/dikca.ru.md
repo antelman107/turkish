@@ -4,6 +4,72 @@ level = "B1"
 draft = false
 url = '/dopolnitelnaya-teoriya/dikca/'
 aliases = ['/drugaya-teoriya/dikca/']
+
+[quiz]
+  [[quiz.questions]]
+    question = "Что означает «Kitap okudukça kelime dağarcığın gelişir»?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Чем больше читаешь, тем больше расширяется словарный запас."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Пока не прочитаешь книгу, словарный запас не расширится."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "После чтения книги словарный запас расширится."
+      correct = false
+
+  [[quiz.questions]]
+    question = "Как образуется -dıkça от глагола «gelmek»?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "geldikçe"
+      correct = true
+    [[quiz.questions.answers]]
+      text = "gelince"
+      correct = false
+    [[quiz.questions.answers]]
+      text = "geldiğinde"
+      correct = false
+
+  [[quiz.questions]]
+    question = "Что значит «Sıkıldıkça denize gidiyorum»?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Каждый раз, когда мне скучно, я иду на море."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Пока мне не стало скучно, я ходил на море."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "После того как мне стало скучно, я пошёл на море."
+      correct = false
+
+  [[quiz.questions]]
+    question = "Переведите: «Пока не закончишь уроки, не выйдешь»."
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Derslerini bitirmedikçe dışarıya çıkmayacaksın."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Derslerini bitirince dışarıya çıkmayacaksın."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Derslerini bitirene kadar dışarıya çıkmazsın."
+      correct = false
+
+  [[quiz.questions]]
+    question = "Что означает слово «oldukça»?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Довольно, достаточно, очень"
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Пока, до тех пор"
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Каждый раз, когда"
+      correct = false
 +++
 1. **“По мере того, как”, «чем больше, тем»**
 

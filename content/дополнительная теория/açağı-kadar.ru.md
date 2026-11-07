@@ -4,6 +4,72 @@ level = "B1"
 draft = false
 url = '/dopolnitelnaya-teoriya/acagi-kadar/'
 aliases = ['/drugaya-teoriya/acagi-kadar/']
+
+[quiz]
+  [[quiz.questions]]
+    question = "Что означает «Korktuğum kadar zor değildi»?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Это оказалось не так сложно, как я боялся."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Это было намного сложнее, чем я думал."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Я боялся, что это будет сложным."
+      correct = false
+
+  [[quiz.questions]]
+    question = "Как образуется конструкция «настолько, насколько» в прошедшем?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "глагол + dık/dık + притяжательность + kadar"
+      correct = true
+    [[quiz.questions.answers]]
+      text = "глагол + acak/ecek + притяжательность + kadar"
+      correct = false
+    [[quiz.questions.answers]]
+      text = "глагол + ınca + kadar"
+      correct = false
+
+  [[quiz.questions]]
+    question = "Переведите: «Возьми столько, сколько сможешь съесть»."
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Yiyebileceğin kadar al."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Yiyeceğin kadar al."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Yediğin kadar al."
+      correct = false
+
+  [[quiz.questions]]
+    question = "Что значит «Sandığım kadar kolay olmayacak»?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Это будет не так легко, как я думал."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Это оказалось легче, чем я думал."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Я думал, что это будет лёгким."
+      correct = false
+
+  [[quiz.questions]]
+    question = "Переведите: «Насколько я понял, никто не счастлив»."
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Anladığım kadar kimse mutlu değil."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Anlayacağım kadar kimse mutlu değil."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Anlayınca kimse mutlu değil."
+      correct = false
 +++
 Настолько ... насколько. Korktuğum kadar zor değildi.** - *Это было не так сложно, как я боялся.
 

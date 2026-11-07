@@ -4,6 +4,72 @@ level = "B1"
 draft = false
 url = '/dopolnitelnaya-teoriya/ana-kadar-incaya-kadar/'
 aliases = ['/drugaya-teoriya/ana-kadar-incaya-kadar/']
+
+[quiz]
+  [[quiz.questions]]
+    question = "Что означает конструкция «-(y)ana kadar»?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "До тех пор пока, пока не"
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Как только, сразу после"
+      correct = false
+    [[quiz.questions.answers]]
+      text = "До того, не выполнив"
+      correct = false
+
+  [[quiz.questions]]
+    question = "Переведите: «Мы ждали, пока он не пришёл»."
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "O gelene kadar bekledik."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "O gelince bekledik."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "O gelmeden önce bekledik."
+      correct = false
+
+  [[quiz.questions]]
+    question = "Как сказать «Не трогайте еду до прихода гостей»?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Misafirler gelene kadar yemeklere dokunmayın."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Misafirler gelince yemeklere dokunmayın."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Misafirler gelmeden yemeklere dokunmayın."
+      correct = false
+
+  [[quiz.questions]]
+    question = "Чем отличается «-ana kadar» от «-madan önce»?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "-ana kadar указывает на длительность действия до момента, -madan önce — просто «до того, как»"
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Они полностью синонимичны"
+      correct = false
+    [[quiz.questions.answers]]
+      text = "-madan önce указывает на длительность, -ana kadar — нет"
+      correct = false
+
+  [[quiz.questions]]
+    question = "Переведите: «Пока не купим машину, будем ходить пешком»."
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Araba alana kadar yürüyeceğiz."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Araba alınca yürüyeceğiz."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Araba almadan önce yürüyeceğiz."
+      correct = false
 +++
 Коротко: что означает и как использовать «Деепричастия - ana kadar и incaya kadar».
 

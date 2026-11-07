@@ -4,6 +4,72 @@ level = "C1"
 draft = false
 url = '/neobkhodimaya-teoriya/degil-s-glagolami/'
 aliases = ['/drugaya-teoriya/degil-s-glagolami/']
+
+[quiz]
+  [[quiz.questions]]
+    question = "Что означает «Türkçeyi çok iyi konuşuyor değilim»?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Не то чтобы я очень хорошо говорю по-турецки..."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Я совсем не говорю по-турецки."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Я говорю по-турецки очень хорошо."
+      correct = false
+
+  [[quiz.questions]]
+    question = "Что означает «Bu işe bugün başlayacak değilim»?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Я не собираюсь сегодня начинать это дело."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Я начал это дело сегодня."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Это дело не начнётся сегодня."
+      correct = false
+
+  [[quiz.questions]]
+    question = "Переведите: «Не то чтобы я бросил музыку, я просто сделал перерыв»."
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Müziği bırakmış değilim, sadece biraz ara verdim."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Müziği bıraktım ama biraz ara verdim."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Müziği bırakmıyorum, sadece ara verdim."
+      correct = false
+
+  [[quiz.questions]]
+    question = "С какими временами используется «değil» после глаголов?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "С настоящим (-iyor), будущим (-ecek) и субъективным прошедшим (-mış)"
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Только с настоящим временем"
+      correct = false
+    [[quiz.questions.answers]]
+      text = "С прошедшим (-dı) и будущим (-ecek)"
+      correct = false
+
+  [[quiz.questions]]
+    question = "Что означает «Bunu Ayşe değil Ahmet bile bilemez»?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Это не то что Айше — даже Ахмет не знает."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Айше знает, а Ахмет не знает."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Ни Айше, ни Ахмет не знают."
+      correct = false
 +++
 используется после глаголов в настоящем, будущем, субъективном временах
 

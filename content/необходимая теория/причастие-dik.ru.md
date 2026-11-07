@@ -3,6 +3,72 @@ title = 'Причастие dık'
 level = "B1"
 url = '/neobkhodimaya-teoriya/prichastie-dik/'
 aliases = ['/drugaya-teoriya/prichastie-dik/']
+
+[quiz]
+  [[quiz.questions]]
+    question = "Как сказать «еда, которую я люблю» с причастием -dık?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "sevdiğim yemek"
+      correct = true
+    [[quiz.questions.answers]]
+      text = "seveceğim yemek"
+      correct = false
+    [[quiz.questions.answers]]
+      text = "sevmek yemek"
+      correct = false
+
+  [[quiz.questions]]
+    question = "Как сказать «книга, которую ты читаешь»?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "okuduğun kitap"
+      correct = true
+    [[quiz.questions.answers]]
+      text = "okuyacağın kitap"
+      correct = false
+    [[quiz.questions.answers]]
+      text = "okuduğum kitap"
+      correct = false
+
+  [[quiz.questions]]
+    question = "Как сказать «фильм, который мы будем смотреть» (будущее время)?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "izleyeceğimiz film"
+      correct = true
+    [[quiz.questions.answers]]
+      text = "izlediğimiz film"
+      correct = false
+    [[quiz.questions.answers]]
+      text = "izlemek film"
+      correct = false
+
+  [[quiz.questions]]
+    question = "Как сказать «место, куда я хожу»?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "gittiğim yer"
+      correct = true
+    [[quiz.questions.answers]]
+      text = "gideceğim yer"
+      correct = false
+    [[quiz.questions.answers]]
+      text = "gitmek yer"
+      correct = false
+
+  [[quiz.questions]]
+    question = "Переведите: «Место, куда мы пойдём, хорошее?»"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Gideceğimiz yer güzel mi?"
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Gittiğimiz yer güzel mi?"
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Gitmek istediğimiz yer güzel mi?"
+      correct = false
 +++
 Коротко: что означает и как использовать «Причастие dık».
 

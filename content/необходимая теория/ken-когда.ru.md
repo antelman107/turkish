@@ -5,6 +5,72 @@ draft = false
 url = '/neobkhodimaya-teoriya/ken-kogda/'
 
 aliases = ['/drugaya-teoriya/ken-kogda/']
+
+[quiz]
+  [[quiz.questions]]
+    question = "Переведите: «Когда папа был дома, мы смотрели телевизор»."
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Babam evdeyken biz televizyon izledik."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Babam evde olunca biz televizyon izledik."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Babam evde olduğunda biz televizyon izledik."
+      correct = false
+
+  [[quiz.questions]]
+    question = "Что означает «Ben eve giderken annem aradı»?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Когда я шёл домой, мама позвонила."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Мама позвонила, и я пошёл домой."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "После того как я пошёл домой, мама позвонила."
+      correct = false
+
+  [[quiz.questions]]
+    question = "Что означает конструкция -mışken?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Раз уж ты сделал(а)..., заодно..."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Только собирался сделать..."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Пока ты делаешь..."
+      correct = false
+
+  [[quiz.questions]]
+    question = "Переведите: «Раз уж ты идёшь в магазин, купи мне газету»."
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Markete gitmişken bana gazete al."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Markete giderken bana gazete al."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Markete gittiğinde bana gazete al."
+      correct = false
+
+  [[quiz.questions]]
+    question = "Что означает «Ben evden çıkacakken misafirler geldi»?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Только я собирался выйти из дома, как пришли гости."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Когда я выходил из дома, пришли гости."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "После того как я вышел из дома, пришли гости."
+      correct = false
 +++
 
 Суффикс **-ken** используется для выражения одновременности действий и временных обстоятельств. Он может присоединяться к существительным, прилагательным, местам и глаголам в разных временах, передавая значения "когда", "в то время как", "раз уж" и "только собирался".

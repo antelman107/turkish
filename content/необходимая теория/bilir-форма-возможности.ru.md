@@ -4,6 +4,72 @@ level = "A2"
 draft = false
 url = '/dopolnitelnaya-teoriya/bilir-forma-vozmozhnosti/'
 aliases = ['/drugaya-teoriya/bilir-forma-vozmozhnosti/']
+
+[quiz]
+  [[quiz.questions]]
+    question = "Как сказать «Я могу прийти»?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Gelebilirim."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Gelebiliyorum."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Gelmeliyim."
+      correct = false
+
+  [[quiz.questions]]
+    question = "Как образуется форма возможности (-abilir/-ebilir)?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Основа + a/e + bil + окончание времени"
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Основа + bil + a/e + окончание времени"
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Инфинитив + bil"
+      correct = false
+
+  [[quiz.questions]]
+    question = "Как сказать «Он не может говорить по-турецки»?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Türkçe konuşamaz."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Türkçe konuşabilmez."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Türkçe konuşmaz."
+      correct = false
+
+  [[quiz.questions]]
+    question = "Переведите: «Ты умеешь плавать?»"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Yüzebilir misin?"
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Yüzüyor musun?"
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Yüzecek misin?"
+      correct = false
+
+  [[quiz.questions]]
+    question = "Как сказать «Возможно, он придёт» (-abilir в значении вероятности)?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Gelebilir."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Gelecek."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Geliyor."
+      correct = false
 +++
 Выражает вероятность, навыки и умения.
 Переводится, как «мочь/уметь».

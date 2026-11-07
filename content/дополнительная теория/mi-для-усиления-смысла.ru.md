@@ -4,6 +4,72 @@ level = "A1"
 draft = false
 url = '/dopolnitelnaya-teoriya/mi-dlya-usileniya-smysla/'
 aliases = ['/drugaya-teoriya/mi-dlya-usileniya-smysla/']
+
+[quiz]
+  [[quiz.questions]]
+    question = "Что означает «Güzel mi güzel»?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Красивая-прекрасивая (усиление прилагательного)"
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Красивая ли она?"
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Вопрос: «красивая или нет?»"
+      correct = false
+
+  [[quiz.questions]]
+    question = "Как построить усиливающую конструкция с mı/mi/mu/mü?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Слово + mı/mi/mu/mü + повтор того же слова"
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Слово + çok + повтор того же слова"
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Повтор слова через дефис"
+      correct = false
+
+  [[quiz.questions]]
+    question = "Что означает «Söyledim mi söyledim»?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Я же говорил! / Сказал — сказал!"
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Скажу ли я это?"
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Он это сказал или нет?"
+      correct = false
+
+  [[quiz.questions]]
+    question = "Это вопрос или утверждение: «Büyük mü büyük bir ev»?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Усиленное утверждение (огромный-преогромный дом)"
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Вопрос: «большой ли дом?»"
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Отрицание"
+      correct = false
+
+  [[quiz.questions]]
+    question = "Переведите: «Сделали — ещё как сделали!»"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Yaptık mı yaptık."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Çok yaptık."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Yapacak mıyız?"
+      correct = false
 +++
 Данная конструкция используется для усиления утверждения или эмоционального акцента. Это не вопрос, несмотря на наличие вопросительной частицы.
 

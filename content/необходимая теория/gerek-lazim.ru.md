@@ -4,6 +4,72 @@ level = "B1"
 draft = false
 url = '/neobkhodimaya-teoriya/gerek-lazim/'
 aliases = ['/drugaya-teoriya/geker-lazim/']
+
+[quiz]
+  [[quiz.questions]]
+    question = "Как сказать «Мне нужно позвонить учителю» с привязкой к лицу?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Öğretmeni aramam lazım."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Öğretmeni aramak lazım."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Öğretmeni aramalıyım."
+      correct = false
+
+  [[quiz.questions]]
+    question = "Как сказать «Нам не нужно идти» через «gerek yok»?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Gitmemize gerek yok."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Gitmek gerek yok."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Gitmeye gerek yok."
+      correct = false
+
+  [[quiz.questions]]
+    question = "Что означает «Gitmek zorundayım»?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Я обязан / вынужден идти."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Мне нужно идти (хочу)."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Я иду."
+      correct = false
+
+  [[quiz.questions]]
+    question = "Как сказать «Тебе не нужно идти» через «gerekmiyor»?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Gitmen gerekmiyor."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Gitmek gerekmiyor."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Gitmene gerekmiyor."
+      correct = false
+
+  [[quiz.questions]]
+    question = "Как сказать «Я не обязан идти» через «zorunda»?"
+    type = "single-choice"
+    [[quiz.questions.answers]]
+      text = "Gitmek zorunda değilim."
+      correct = true
+    [[quiz.questions.answers]]
+      text = "Gitmek zorunda olmam."
+      correct = false
+    [[quiz.questions.answers]]
+      text = "Gitmemek zorundayım."
+      correct = false
 +++
 
 Оба слова на русский можно перевести, как необходимо.
