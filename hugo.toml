@@ -9,6 +9,11 @@ ignoreLogs = ['warning-goldmark-raw-html']
   githubRepo = "https://github.com/antelman107/turkish"
   githubBranch = "main"
 
+[markup]
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4
+
 [languages]
     [languages.ru]
       weight = 1
