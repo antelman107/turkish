@@ -1,3 +1,4 @@
+featured_image = 'acagi_kadar.webp'
 +++
 title = "Настолько ... насколько (-dık/-acak kadar)"
 level = "B1"

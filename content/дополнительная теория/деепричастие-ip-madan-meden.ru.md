@@ -1,3 +1,4 @@
+featured_image = 'dep_ip.webp'
 +++
 title = "Деепричастие -ıp/-ip и -madan/-meden"
 level = "A2"

@@ -1,3 +1,4 @@
+featured_image = 'dan_beri.webp'
 +++
 title = "-dan/-den beri (с тех пор как)"
 level = "B1"

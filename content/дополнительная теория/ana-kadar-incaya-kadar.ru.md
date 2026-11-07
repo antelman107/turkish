@@ -1,3 +1,4 @@
+featured_image = 'ana_kadar.webp'
 +++
 title = "Деепричастия - ana kadar и incaya kadar"
 level = "B1"

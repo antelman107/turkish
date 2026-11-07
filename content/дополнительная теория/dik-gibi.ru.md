@@ -1,3 +1,4 @@
+featured_image = 'dik_gibi.webp'
 +++
 title = "dık gibi (как только / как)"
 level = "C1"

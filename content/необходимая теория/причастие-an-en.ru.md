@@ -1,3 +1,4 @@
+featured_image = 'participle_an.webp'
 +++
 title = "Причастие -an/-en"
 level = "B1"

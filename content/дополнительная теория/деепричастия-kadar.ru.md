@@ -1,3 +1,4 @@
+featured_image = 'dep_kadar.webp'
 +++
 title = "Деепричастия - ana kadar и ıncaya kadar"
 level = "B2"

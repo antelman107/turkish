@@ -1,3 +1,4 @@
+featured_image = 'gerek_lazim.webp'
 +++
 title = "Gerek, lâzım, zorunda"
 level = "B1"

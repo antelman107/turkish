@@ -1,3 +1,4 @@
+featured_image = 'dik_zaman.webp'
 +++
 title = "Временные конструкции: -dığında/-ınca/-ır...-maz"
 level = "B1"

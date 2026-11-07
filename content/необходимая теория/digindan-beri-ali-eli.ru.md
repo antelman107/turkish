@@ -1,3 +1,4 @@
+featured_image = 'digindan_beri.webp'
 +++
 title = "-alı/-eli и -(d)ığından beri"
 level = "B2"

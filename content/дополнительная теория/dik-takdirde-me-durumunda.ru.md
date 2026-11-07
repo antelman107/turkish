@@ -1,3 +1,4 @@
+featured_image = 'dik_takdirde.webp'
 +++
 title = "-dığı takdirde / -me durumunda"
 level = "C1"

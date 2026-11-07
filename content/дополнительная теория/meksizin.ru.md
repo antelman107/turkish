@@ -1,3 +1,4 @@
+featured_image = 'meksizin.webp'
 +++
 title = "-meksizin (не делая)"
 level = "C1"

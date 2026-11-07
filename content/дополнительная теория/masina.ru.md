@@ -1,3 +1,4 @@
+featured_image = 'masina.webp'
 +++
 title = "-masına/-mesine (его/ее действие)"
 level = "C1"

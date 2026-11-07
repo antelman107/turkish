@@ -1,3 +1,4 @@
+featured_image = 'mak_icin.webp'
 +++
 title = "-mak için (чтобы, для того чтобы)"
 level = "A2"

@@ -1,3 +1,4 @@
+featured_image = 'ken.webp'
 +++
 title = "В то время как, раз уж, только (-ken)"
 level = "A2"

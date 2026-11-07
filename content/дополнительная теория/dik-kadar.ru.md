@@ -1,3 +1,4 @@
+featured_image = 'dik_kadar.webp'
 +++
 title = "dık kadar (настолько, сколько)"
 level = "C1"

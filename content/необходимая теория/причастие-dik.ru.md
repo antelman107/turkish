@@ -1,3 +1,4 @@
+featured_image = 'participle_dik.webp'
 +++
 title = 'Причастие dık'
 level = "B2"

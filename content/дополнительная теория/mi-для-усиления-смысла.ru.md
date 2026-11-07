@@ -1,3 +1,4 @@
+featured_image = 'mi_emphasis.webp'
 +++
 title = "Конструкция mI/mi/mu/mü для усиления смысла"
 level = "A1"

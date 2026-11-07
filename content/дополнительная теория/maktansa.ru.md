@@ -1,3 +1,4 @@
+featured_image = 'maktansa.webp'
 +++
 title = "Вместо того (maktansa, yerine, varken, acağına)"
 level = "C1"

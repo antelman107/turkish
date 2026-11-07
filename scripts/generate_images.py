@@ -24,6 +24,8 @@ import time
 import subprocess
 from pathlib import Path
 
+import base64
+
 try:
     from google import genai
     from google.genai import types as genai_types
@@ -408,16 +410,27 @@ def main() -> None:
 
         print(f"[{i}/{len(todo)}] {slug} ...", end=" ", flush=True)
         try:
-            response = client.models.generate_images(
-                model="imagen-3.0-generate-001",
-                prompt=prompt,
-                config=genai_types.GenerateImagesConfig(
-                    number_of_images=1,
-                    aspect_ratio="1:1",
-                    output_mime_type="image/png",
+            response = client.models.generate_content(
+                model="gemini-2.5-flash-image",
+                contents=prompt,
+                config=genai_types.GenerateContentConfig(
+                    response_modalities=["IMAGE"],
                 ),
             )
-            image_bytes = response.generated_images[0].image.image_bytes
+            image_bytes = None
+            for part in response.candidates[0].content.parts:
+                if part.inline_data:
+                    d = part.inline_data.data
+                    if isinstance(d, bytes):
+                        image_bytes = d
+                    else:
+                        padding = 4 - len(d) % 4
+                        if padding != 4:
+                            d += "=" * padding
+                        image_bytes = base64.b64decode(d)
+                    break
+            if not image_bytes:
+                raise RuntimeError("No image in response")
             png_path.write_bytes(image_bytes)
             to_webp(png_path, webp_path)
             png_path.unlink()  # remove PNG, keep only WebP
@@ -427,9 +440,9 @@ def main() -> None:
             print(f"ERROR: {e}")
             continue
 
-        # Imagen 3 free tier: ~10 req/min — pause 7s to stay safe
+        # gemini-2.5-flash-image: пауза 4s между запросами
         if i < len(todo):
-            time.sleep(7)
+            time.sleep(4)
 
     print("\nDone! Run `hugo` and deploy.")
 

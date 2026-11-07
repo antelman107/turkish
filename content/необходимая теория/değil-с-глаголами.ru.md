@@ -1,3 +1,4 @@
+featured_image = 'degil.webp'
 +++
 title = "Değil с глаголами"
 level = "C1"

@@ -1,3 +1,4 @@
+featured_image = 'dikca.webp'
 +++
 title = "Деепричастие **Dıkça/dikçe/dukca/dükçe/tukca/tikce/tukça/tükçe**"
 level = "B2"

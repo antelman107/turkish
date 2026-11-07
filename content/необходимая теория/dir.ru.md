@@ -1,3 +1,4 @@
+featured_image = 'dir.webp'
 +++
 title = "Dır-dir-dur-dür – tır-tir-tur-tür"
 level = "B1"

@@ -1,3 +1,4 @@
+featured_image = 'iver.webp'
 +++
 title = "Форма быстроты"
 level = "C1"

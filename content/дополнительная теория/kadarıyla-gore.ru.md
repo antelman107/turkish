@@ -1,3 +1,4 @@
+featured_image = 'kadarıyla_gore.webp'
 +++
 title = "dık göre / dık kadarıyla"
 level = "C1"

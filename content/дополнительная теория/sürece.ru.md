@@ -1,3 +1,4 @@
+featured_image = 'surece.webp'
 +++
 title = "1. SÜRECE"
 level = "B2"

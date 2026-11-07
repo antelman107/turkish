@@ -1,3 +1,4 @@
+featured_image = 'dep_dik.webp'
 +++
 title = 'Деепричастие dik'
 level = "B1"

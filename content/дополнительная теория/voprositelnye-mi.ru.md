@@ -1,3 +1,4 @@
+featured_image = 'mi_question.webp'
 +++
 title = "Вопросительная частица mı/mi/mu/mü"
 level = "C1"

@@ -1,3 +1,4 @@
+featured_image = 'dep_arak.webp'
 +++
 title = "Деепричастие -arak/-erek"
 level = "A2"

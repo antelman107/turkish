@@ -1,3 +1,4 @@
+featured_image = 'bilir.webp'
 +++
 title = "bilir форма возможности"
 level = "A2"

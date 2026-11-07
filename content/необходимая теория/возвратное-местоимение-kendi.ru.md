@@ -1,3 +1,4 @@
+featured_image = 'kendi.webp'
 +++
 title = "Возвратное местоимение kendi"
 level = "A2"

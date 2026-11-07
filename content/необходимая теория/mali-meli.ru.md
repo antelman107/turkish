@@ -1,3 +1,4 @@
+featured_image = 'mali_meli.webp'
 +++
 title = "-malı/-meli (должен, нужно)"
 level = "B1"

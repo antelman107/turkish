@@ -1,3 +1,4 @@
+featured_image = 'dep_inca.webp'
 +++
 title = "утверждение"
 level = "B1"

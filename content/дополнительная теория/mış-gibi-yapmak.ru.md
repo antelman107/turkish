@@ -1,3 +1,4 @@
+featured_image = 'mish_gibi.webp'
 +++
 title = "-mış gibi yapmak"
 level = "C1"

@@ -1,3 +1,4 @@
+featured_image = 'ki.webp'
 +++
 title = "Все варианты ki"
 level = "C1"

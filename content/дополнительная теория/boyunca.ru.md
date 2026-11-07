@@ -1,3 +1,4 @@
+featured_image = 'boyunca.webp'
 +++
 title = "boyunca (в течение, на протяжении)"
 level = "C1"

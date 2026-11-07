@@ -1,3 +1,4 @@
+featured_image = 'misligim.webp'
 +++
 title = "-mişliğim var/yok (есть опыт)"
 level = "C1"

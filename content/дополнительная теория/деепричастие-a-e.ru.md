@@ -1,3 +1,4 @@
+featured_image = 'dep_ae.webp'
 +++
 title = "Деепричастие -a/-e (повтор действия)"
 level = "A2"

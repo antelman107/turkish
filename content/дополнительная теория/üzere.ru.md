@@ -1,3 +1,4 @@
+featured_image = 'uzere.webp'
 +++
 title = "Вот-вот, почти, чтобы (послелог üzere)"
 level = "A1"
