@@ -1,4 +1,3 @@
-featured_image = 'mish_gibi.webp'
 +++
 title = "-mış gibi yapmak"
 level = "C1"
@@ -71,6 +70,7 @@ aliases = ['/drugaya-teoriya/mis-gibi-yapmak/']
     [[quiz.questions.answers]]
       text = "Kilo aldım gibi hissediyorum."
       correct = false
+featured_image = 'mish_gibi.webp'
 +++
 присоединяется к глаголу в любом времени, а также к существительным и прилагательным, значение «Делать вид, что...», «Притворяться, что...»:
 

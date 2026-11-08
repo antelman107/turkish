@@ -1,4 +1,3 @@
-featured_image = 'misligim.webp'
 +++
 title = "-mişliğim var/yok (есть опыт)"
 level = "C1"
@@ -70,6 +69,7 @@ url = "/dopolnitelnaya-teoriya/misligim-var-yok/"
     [[quiz.questions.answers]]
       text = "Bunu yapıyorum."
       correct = false
+featured_image = 'misligim.webp'
 +++
 Конструкция **-mişliğim var/yok** выражает наличие/отсутствие опыта: «у меня есть/нет такого опыта».
 

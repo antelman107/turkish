@@ -1,4 +1,3 @@
-featured_image = 'digindan_beri.webp'
 +++
 title = "-alı/-eli и -(d)ığından beri"
 level = "B2"
@@ -70,6 +69,7 @@ url = "/neobkhodimaya-teoriya/digindan-beri-ali-eli/"
     [[quiz.questions.answers]]
       text = "Gelerken buradayım."
       correct = false
+featured_image = 'digindan_beri.webp'
 +++
 Две конструкции «с тех пор как»:
 

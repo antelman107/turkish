@@ -1,4 +1,3 @@
-featured_image = 'ana_kadar.webp'
 +++
 title = "Деепричастия - ana kadar и incaya kadar"
 level = "B1"
@@ -71,6 +70,7 @@ aliases = ['/drugaya-teoriya/ana-kadar-incaya-kadar/']
     [[quiz.questions.answers]]
       text = "Araba almadan önce yürüyeceğiz."
       correct = false
+featured_image = 'ana_kadar.webp'
 +++
 Коротко: что означает и как использовать «Деепричастия - ana kadar и incaya kadar».
 

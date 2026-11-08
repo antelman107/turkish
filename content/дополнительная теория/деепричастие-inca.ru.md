@@ -1,4 +1,3 @@
-featured_image = 'dep_inca.webp'
 +++
 title = "утверждение"
 level = "B1"
@@ -71,6 +70,7 @@ aliases = ['/drugaya-teoriya/deeprichastie-inca/']
     [[quiz.questions.answers]]
       text = "До того как увидел тебя, я расстроился."
       correct = false
+featured_image = 'dep_inca.webp'
 +++
 На русский переводим, как «когда», «после того, как», «сразу, как».
 Показывает, что ко второму действию вы переходите сразу после завершения первого.

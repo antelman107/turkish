@@ -1,4 +1,3 @@
-featured_image = 'kadarıyla_gore.webp'
 +++
 title = "dık göre / dık kadarıyla"
 level = "C1"
@@ -71,6 +70,7 @@ aliases = ["/drugaya-teoriya/kadariyla-gore/"]
     [[quiz.questions.answers]]
       text = "Program için..."
       correct = false
+featured_image = 'kadarıyla_gore.webp'
 +++
 Конструкции **-dığına göre** и **-dığı kadarıyla** выражают «по тому, что…» и «насколько я знаю/вижу».
 

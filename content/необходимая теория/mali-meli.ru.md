@@ -1,4 +1,3 @@
-featured_image = 'mali_meli.webp'
 +++
 title = "-malı/-meli (должен, нужно)"
 level = "B1"
@@ -70,6 +69,7 @@ url = "/neobkhodimaya-teoriya/mali-meli/"
     [[quiz.questions.answers]]
       text = "Böyle konuşmasın."
       correct = false
+featured_image = 'mali_meli.webp'
 +++
 Суффикс **-malı/-meli** выражает обязанность или необходимость: «должен», «нужно».
 

@@ -1,4 +1,3 @@
-featured_image = 'dep_ae.webp'
 +++
 title = "Деепричастие -a/-e (повтор действия)"
 level = "A2"
@@ -70,6 +69,7 @@ url = "/dopolnitelnaya-teoriya/deeprichastie-a-e/"
     [[quiz.questions.answers]]
       text = "Gülüp söyledi."
       correct = false
+featured_image = 'dep_ae.webp'
 +++
 Деепричастие **-a/-e** часто используется в повторе (двойной форме) и показывает способ действия: «бегом», «с улыбкой», «быстро/весело».
 

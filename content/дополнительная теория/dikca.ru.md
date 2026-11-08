@@ -1,4 +1,3 @@
-featured_image = 'dikca.webp'
 +++
 title = "Деепричастие **Dıkça/dikçe/dukca/dükçe/tukca/tikce/tukça/tükçe**"
 level = "B2"
@@ -71,6 +70,7 @@ aliases = ['/drugaya-teoriya/dikca/']
     [[quiz.questions.answers]]
       text = "Каждый раз, когда"
       correct = false
+featured_image = 'dikca.webp'
 +++
 1. **“По мере того, как”, «чем больше, тем»**
 

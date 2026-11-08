@@ -1,4 +1,3 @@
-featured_image = 'dik_kadar.webp'
 +++
 title = "dık kadar (настолько, сколько)"
 level = "C1"
@@ -70,6 +69,7 @@ url = "/dopolnitelnaya-teoriya/dik-kadar/"
     [[quiz.questions.answers]]
       text = "Yapabildiğimiz için yardım ettik."
       correct = false
+featured_image = 'dik_kadar.webp'
 +++
 **-dığı kadar** выражает «настолько, сколько»: объем, степень или меру.
 

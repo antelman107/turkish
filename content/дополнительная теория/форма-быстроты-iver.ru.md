@@ -1,4 +1,3 @@
-featured_image = 'iver.webp'
 +++
 title = "Форма быстроты"
 level = "C1"
@@ -71,6 +70,7 @@ aliases = ['/drugaya-teoriya/forma-bystroty-iver/']
     [[quiz.questions.answers]]
       text = "Elimdeki poşetlerin birkaçını alabilirsin."
       correct = false
+featured_image = 'iver.webp'
 +++
 Коротко: что означает и как использовать «Форма быстроты».
 

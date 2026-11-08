@@ -1,4 +1,3 @@
-featured_image = 'dep_ip.webp'
 +++
 title = "Деепричастие -ıp/-ip и -madan/-meden"
 level = "A2"
@@ -70,6 +69,7 @@ url = "/dopolnitelnaya-teoriya/deeprichastie-ip-madan-meden/"
     [[quiz.questions.answers]]
       text = "Vedalaşarak gitti."
       correct = false
+featured_image = 'dep_ip.webp'
 +++
 Деепричастия **-ıp/-ip/-up/-üp** и **-madan/-meden** помогают соединять действия: «сделав» и «не делая».
 

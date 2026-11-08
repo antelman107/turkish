@@ -1,4 +1,3 @@
-featured_image = 'boyunca.webp'
 +++
 title = "boyunca (в течение, на протяжении)"
 level = "C1"
@@ -70,6 +69,7 @@ url = "/dopolnitelnaya-teoriya/boyunca/"
     [[quiz.questions.answers]]
       text = "Yol kadar"
       correct = false
+featured_image = 'boyunca.webp'
 +++
 **Boyunca** означает «в течение, на протяжении» и используется с существительными.
 

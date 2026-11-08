@@ -1,4 +1,3 @@
-featured_image = 'maktansa.webp'
 +++
 title = "Вместо того (maktansa, yerine, varken, acağına)"
 level = "C1"
@@ -71,6 +70,7 @@ aliases = ['/drugaya-teoriya/maktansa/']
     [[quiz.questions.answers]]
       text = "Spor yapınca her gün 10 000 adım yürüyorum."
       correct = false
+featured_image = 'maktansa.webp'
 +++
 Коротко: что означает и как использовать «Вместо того, чтобы конструкции:».
 

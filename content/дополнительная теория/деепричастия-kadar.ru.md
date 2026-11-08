@@ -1,4 +1,3 @@
-featured_image = 'dep_kadar.webp'
 +++
 title = "Деепричастия - ana kadar и ıncaya kadar"
 level = "B2"
@@ -70,6 +69,7 @@ url = '/deeprichastiya-kadar/'
     [[quiz.questions.answers]]
       text = "Разницы нет, они взаимозаменяемы"
       correct = false
+featured_image = 'dep_kadar.webp'
 +++
 Коротко: что означает и как использовать «Деепричастия - ana kadar и ıncaya kadar».
 

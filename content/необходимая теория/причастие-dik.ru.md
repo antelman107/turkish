@@ -1,4 +1,3 @@
-featured_image = 'participle_dik.webp'
 +++
 title = 'Причастие dık'
 level = "B2"
@@ -70,6 +69,7 @@ aliases = ['/drugaya-teoriya/prichastie-dik/']
     [[quiz.questions.answers]]
       text = "Gitmek istediğimiz yer güzel mi?"
       correct = false
+featured_image = 'participle_dik.webp'
 +++
 Коротко: что означает и как использовать «Причастие dık».
 

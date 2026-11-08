@@ -1,4 +1,3 @@
-featured_image = 'mi_question.webp'
 +++
 title = "Вопросительная частица mı/mi/mu/mü"
 level = "C1"
@@ -70,6 +69,7 @@ url = "/dopolnitelnaya-teoriya/voprositelnye-mi/"
     [[quiz.questions.answers]]
       text = "Gelmedi mı?"
       correct = false
+featured_image = 'mi_question.webp'
 +++
 Частица **mı/mi/mu/mü** делает предложение вопросительным. Она ставится после слова, к которому относится.
 

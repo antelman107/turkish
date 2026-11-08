@@ -1,4 +1,3 @@
-featured_image = 'dep_dik.webp'
 +++
 title = 'Деепричастие dik'
 level = "B1"
@@ -71,6 +70,7 @@ aliases = ['/drugaya-teoriya/deeprichastie-dik/']
     [[quiz.questions.answers]]
       text = "основа + ınca + zaman"
       correct = false
+featured_image = 'dep_dik.webp'
 +++
 Коротко: что означает и как использовать «Деепричастие dik».
 

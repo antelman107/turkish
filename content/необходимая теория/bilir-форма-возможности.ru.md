@@ -1,4 +1,3 @@
-featured_image = 'bilir.webp'
 +++
 title = "bilir форма возможности"
 level = "A2"
@@ -71,6 +70,7 @@ aliases = ['/drugaya-teoriya/bilir-forma-vozmozhnosti/']
     [[quiz.questions.answers]]
       text = "Geliyor."
       correct = false
+featured_image = 'bilir.webp'
 +++
 Выражает вероятность, навыки и умения.
 Переводится, как «мочь/уметь».

@@ -1,4 +1,3 @@
-featured_image = 'dan_beri.webp'
 +++
 title = "-dan/-den beri (с тех пор как)"
 level = "B1"
@@ -70,6 +69,7 @@ url = "/neobkhodimaya-teoriya/dan-beri/"
     [[quiz.questions.answers]]
       text = "Geçen ayda burada."
       correct = false
+featured_image = 'dan_beri.webp'
 +++
 Конструкция **-dan/-den beri** означает «с тех пор как / с». Используется с существительными и временными словами.
 
