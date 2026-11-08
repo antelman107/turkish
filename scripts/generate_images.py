@@ -370,14 +370,9 @@ def add_featured_image(md_path: Path, image_slug: str) -> None:
     text = md_path.read_text(encoding="utf-8")
     if "featured_image" in text:
         return  # already set
-    # Insert before closing +++
-    text = re.sub(
-        r"(\+\+\+\s*\n)",
-        lambda m: f"featured_image = '{image_slug}.webp'\n{m.group(1)}",
-        text,
-        count=1,
-        flags=re.MULTILINE,
-    )
+    # Insert on line 2 (right after opening +++) so it's in top-level
+    # TOML context and not accidentally nested inside [quiz] sections.
+    text = text.replace("+++\n", f"+++\nfeatured_image = '{image_slug}.webp'\n", 1)
     md_path.write_text(text, encoding="utf-8")
 
 
