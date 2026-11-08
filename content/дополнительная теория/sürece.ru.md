@@ -1,4 +1,5 @@
 +++
+featured_image = 'surece.webp'
 title = "1. SÜRECE"
 level = "B2"
 draft = false
@@ -70,7 +71,6 @@ aliases = ['/drugaya-teoriya/surece/']
     [[quiz.questions.answers]]
       text = "Пока мы живём, мы не учимся."
       correct = false
-featured_image = 'surece.webp'
 +++
 ### 1. SÜRECE (-DIĞI sürece)
 

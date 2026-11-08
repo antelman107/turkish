@@ -1,4 +1,5 @@
 +++
+featured_image = 'mak_icin.webp'
 title = "-mak için (чтобы, для того чтобы)"
 level = "A2"
 draft = false
@@ -69,7 +70,6 @@ url = "/neobkhodimaya-teoriya/mak-icin/"
     [[quiz.questions.answers]]
       text = "dinlenince"
       correct = false
-featured_image = 'mak_icin.webp'
 +++
 Конструкция **-mak/-mek için** выражает цель: «чтобы», «для того чтобы».
 

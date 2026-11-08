@@ -1,4 +1,5 @@
 +++
+featured_image = 'participle_an.webp'
 title = "Причастие -an/-en"
 level = "B1"
 draft = false
@@ -69,7 +70,6 @@ url = "/neobkhodimaya-teoriya/prichastie-an-en/"
     [[quiz.questions.answers]]
       text = "gülecek"
       correct = false
-featured_image = 'participle_an.webp'
 +++
 Причастие **-an/-en** делает прилагательное со значением «который делает»: «читающий», «идущий», «играющий».
 

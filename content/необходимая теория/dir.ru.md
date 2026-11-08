@@ -1,4 +1,5 @@
 +++
+featured_image = 'dir.webp'
 title = "Dır-dir-dur-dür – tır-tir-tur-tür"
 level = "B1"
 draft = false
@@ -70,7 +71,6 @@ aliases = ['/drugaya-teoriya/dir/']
     [[quiz.questions.answers]]
       text = "Gelmiştir."
       correct = false
-featured_image = 'dir.webp'
 +++
 1. **"Это" - даёт определение**
 

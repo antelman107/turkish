@@ -1,4 +1,5 @@
 +++
+featured_image = 'degil.webp'
 title = "Değil с глаголами"
 level = "C1"
 draft = false
@@ -70,7 +71,6 @@ aliases = ['/drugaya-teoriya/degil-s-glagolami/']
     [[quiz.questions.answers]]
       text = "Ни Айше, ни Ахмет не знают."
       correct = false
-featured_image = 'degil.webp'
 +++
 используется после глаголов в настоящем, будущем, субъективном временах
 

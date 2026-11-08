@@ -1,4 +1,5 @@
 +++
+featured_image = 'gerek_lazim.webp'
 title = "Gerek, lâzım, zorunda"
 level = "B1"
 draft = false
@@ -70,7 +71,6 @@ aliases = ['/drugaya-teoriya/geker-lazim/']
     [[quiz.questions.answers]]
       text = "Gitmemek zorundayım."
       correct = false
-featured_image = 'gerek_lazim.webp'
 +++
 
 Оба слова на русский можно перевести, как необходимо.

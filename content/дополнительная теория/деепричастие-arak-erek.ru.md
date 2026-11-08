@@ -1,4 +1,5 @@
 +++
+featured_image = 'dep_arak.webp'
 title = "Деепричастие -arak/-erek"
 level = "A2"
 draft = false
@@ -69,7 +70,6 @@ url = "/dopolnitelnaya-teoriya/deeprichastie-arak-erek/"
     [[quiz.questions.answers]]
       text = "Gülmesi içeri girdi."
       correct = false
-featured_image = 'dep_arak.webp'
 +++
 Деепричастие **-arak/-erek** показывает действие «делая что-то», часто одновременно с другим действием.
 

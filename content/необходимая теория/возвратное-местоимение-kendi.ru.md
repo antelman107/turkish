@@ -1,4 +1,5 @@
 +++
+featured_image = 'kendi.webp'
 title = "Возвратное местоимение kendi"
 level = "A2"
 draft = false
@@ -69,7 +70,6 @@ url = "/neobkhodimaya-teoriya/kendi/"
     [[quiz.questions.answers]]
       text = "Kendisi sor."
       correct = false
-featured_image = 'kendi.webp'
 +++
 Местоимение **kendi** означает «сам / себя». Оно подчеркивает, что действие делает сам субъект.
 

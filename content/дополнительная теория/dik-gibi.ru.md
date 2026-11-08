@@ -1,4 +1,5 @@
 +++
+featured_image = 'dik_gibi.webp'
 title = "dık gibi (как только / как)"
 level = "C1"
 draft = false
@@ -69,7 +70,6 @@ url = "/dopolnitelnaya-teoriya/dik-gibi/"
     [[quiz.questions.answers]]
       text = "Dediğime göre yap."
       correct = false
-featured_image = 'dik_gibi.webp'
 +++
 Конструкция **-dığı gibi** означает «как только» или «так, как».
 

@@ -1,4 +1,5 @@
 +++
+featured_image = 'dik_takdirde.webp'
 title = "-dığı takdirde / -me durumunda"
 level = "C1"
 draft = false
@@ -69,7 +70,6 @@ url = "/dopolnitelnaya-teoriya/dik-takdirde-me-durumunda/"
     [[quiz.questions.answers]]
       text = "İptal kadarıyla para iade edilir."
       correct = false
-featured_image = 'dik_takdirde.webp'
 +++
 Обе конструкции выражают условие «если / в случае».
 

@@ -1,4 +1,5 @@
 +++
+featured_image = 'uzere.webp'
 title = "Вот-вот, почти, чтобы (послелог üzere)"
 level = "A1"
 draft = false
@@ -70,7 +71,6 @@ aliases = ['/drugaya-teoriya/uzere/']
     [[quiz.questions.answers]]
       text = "Uyumak üzeremişim."
       correct = false
-featured_image = 'uzere.webp'
 +++
 *Я почти доезжаю* – Gelmek üzereYİM.
 Dinlenmek üzere ara verdik – Чтобы отдохнуть мы сделали перерыв.

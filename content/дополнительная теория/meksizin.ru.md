@@ -1,4 +1,5 @@
 +++
+featured_image = 'meksizin.webp'
 title = "-meksizin (не делая)"
 level = "C1"
 draft = false
@@ -69,7 +70,6 @@ url = "/dopolnitelnaya-teoriya/meksizin/"
     [[quiz.questions.answers]]
       text = "bakmayarak"
       correct = false
-featured_image = 'meksizin.webp'
 +++
 **-meksizin/-maksızın** означает «не делая». Это более книжный вариант **-madan/-meden**.
 

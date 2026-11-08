@@ -1,4 +1,5 @@
 +++
+featured_image = 'ki.webp'
 title = "Все варианты ki"
 level = "C1"
 draft = false
@@ -69,7 +70,6 @@ url = "/ki/"
     [[quiz.questions.answers]]
       text = "Biliyorum gelecek."
       correct = false
-featured_image = 'ki.webp'
 +++
 Частица **ki** бывает в трех основных ролях: суффикс **-ki**, местоимение **-ki**, и союз **ki** (пишется отдельно).
 

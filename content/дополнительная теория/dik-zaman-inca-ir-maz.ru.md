@@ -1,4 +1,5 @@
 +++
+featured_image = 'dik_zaman.webp'
 title = "Временные конструкции: -dığında/-ınca/-ır...-maz"
 level = "B1"
 draft = false
@@ -69,7 +70,6 @@ url = "/dopolnitelnaya-teoriya/dik-zaman-inca-ir-maz/"
     [[quiz.questions.answers]]
       text = "Gördüğünde gülümsedi."
       correct = false
-featured_image = 'dik_zaman.webp'
 +++
 Эти конструкции выражают время: «когда», «как только», «в тот момент».
 

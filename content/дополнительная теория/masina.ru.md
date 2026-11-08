@@ -1,4 +1,5 @@
 +++
+featured_image = 'masina.webp'
 title = "-masına/-mesine (его/ее действие)"
 level = "C1"
 draft = false
@@ -69,7 +70,6 @@ url = "/dopolnitelnaya-teoriya/masina/"
     [[quiz.questions.answers]]
       text = "Onun konuşması için engel oluyorum."
       correct = false
-featured_image = 'masina.webp'
 +++
 Форма **-masına/-mesine** — это дательный падеж отглагольного существительного (**-ma/-me**) с притяжательным суффиксом: «его/ее действие».
 

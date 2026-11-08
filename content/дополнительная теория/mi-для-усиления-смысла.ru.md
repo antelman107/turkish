@@ -1,4 +1,5 @@
 +++
+featured_image = 'mi_emphasis.webp'
 title = "Конструкция mI/mi/mu/mü для усиления смысла"
 level = "A1"
 draft = false
@@ -70,7 +71,6 @@ aliases = ['/drugaya-teoriya/mi-dlya-usileniya-smysla/']
     [[quiz.questions.answers]]
       text = "Yapacak mıyız?"
       correct = false
-featured_image = 'mi_emphasis.webp'
 +++
 Данная конструкция используется для усиления утверждения или эмоционального акцента. Это не вопрос, несмотря на наличие вопросительной частицы.
 

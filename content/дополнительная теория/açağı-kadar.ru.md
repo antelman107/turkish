@@ -1,4 +1,5 @@
 +++
+featured_image = 'acagi_kadar.webp'
 title = "Настолько ... насколько (-dık/-acak kadar)"
 level = "B1"
 draft = false
@@ -70,7 +71,6 @@ aliases = ['/drugaya-teoriya/acagi-kadar/']
     [[quiz.questions.answers]]
       text = "Anlayınca kimse mutlu değil."
       correct = false
-featured_image = 'acagi_kadar.webp'
 +++
 Настолько ... насколько. Korktuğum kadar zor değildi.** - *Это было не так сложно, как я боялся.
 
