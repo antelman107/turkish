@@ -1,6 +1,6 @@
 +++
 featured_image = 'degil.webp'
-title = "Değil с глаголами"
+title = "Отрицание değil с глаголами"
 level = "C1"
 draft = false
 url = '/neobkhodimaya-teoriya/degil-s-glagolami/'

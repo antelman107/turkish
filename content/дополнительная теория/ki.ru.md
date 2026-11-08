@@ -1,6 +1,6 @@
 +++
 featured_image = 'ki.webp'
-title = "Все варианты ki"
+title = "Союз и суффикс ki"
 level = "C1"
 draft = false
 url = "/ki/"

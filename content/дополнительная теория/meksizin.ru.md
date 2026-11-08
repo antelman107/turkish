@@ -1,6 +1,6 @@
 +++
 featured_image = 'meksizin.webp'
-title = "-meksizin (не делая)"
+title = "Не делая (-meksizin / -madan)"
 level = "C1"
 draft = false
 url = "/dopolnitelnaya-teoriya/meksizin/"

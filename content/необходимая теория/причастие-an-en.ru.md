@@ -1,6 +1,6 @@
 +++
 featured_image = 'participle_an.webp'
-title = "Причастие -an/-en"
+title = "Причастие настоящего времени (-an / -en)"
 level = "B1"
 draft = false
 url = "/neobkhodimaya-teoriya/prichastie-an-en/"

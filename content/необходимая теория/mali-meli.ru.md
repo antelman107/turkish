@@ -1,6 +1,6 @@
 +++
 featured_image = 'mali_meli.webp'
-title = "-malı/-meli (должен, нужно)"
+title = "Должен (-malı / -meli)"
 level = "B1"
 draft = false
 url = "/neobkhodimaya-teoriya/mali-meli/"

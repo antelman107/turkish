@@ -1,6 +1,6 @@
 +++
 featured_image = 'kadarıyla_gore.webp'
-title = "dık göre / dık kadarıyla"
+title = "По мнению, насколько (-dığına göre / -dığı kadarıyla)"
 level = "C1"
 draft = false
 url = "/dopolnitelnaya-teoriya/kadariyla-gore/"

@@ -1,6 +1,6 @@
 +++
 featured_image = 'misligim.webp'
-title = "-mişliğim var/yok (есть опыт)"
+title = "Есть опыт (-mışlığım var / yok)"
 level = "C1"
 draft = false
 url = "/dopolnitelnaya-teoriya/misligim-var-yok/"

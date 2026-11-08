@@ -1,6 +1,6 @@
 +++
 featured_image = 'dep_kadar.webp'
-title = "Деепричастия - ana kadar и ıncaya kadar"
+title = "Деепричастие «насколько» (-dığı kadar)"
 level = "B2"
 draft = false
 url = '/deeprichastiya-kadar/'

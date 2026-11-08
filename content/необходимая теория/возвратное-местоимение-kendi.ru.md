@@ -1,6 +1,6 @@
 +++
 featured_image = 'kendi.webp'
-title = "Возвратное местоимение kendi"
+title = "Возвратное местоимение (kendi)"
 level = "A2"
 draft = false
 url = "/neobkhodimaya-teoriya/kendi/"

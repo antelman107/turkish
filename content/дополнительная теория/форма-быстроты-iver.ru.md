@@ -1,6 +1,6 @@
 +++
 featured_image = 'iver.webp'
-title = "Форма быстроты"
+title = "Форма быстроты (-ıver)"
 level = "C1"
 draft = false
 url = '/dopolnitelnaya-teoriya/forma-bystroty-iver/'

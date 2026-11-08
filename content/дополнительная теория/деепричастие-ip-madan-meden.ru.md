@@ -1,6 +1,6 @@
 +++
 featured_image = 'dep_ip.webp'
-title = "Деепричастие -ıp/-ip и -madan/-meden"
+title = "Деепричастия (-ıp / -madan / -meden)"
 level = "A2"
 draft = false
 url = "/dopolnitelnaya-teoriya/deeprichastie-ip-madan-meden/"

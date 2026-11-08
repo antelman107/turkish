@@ -1,6 +1,6 @@
 +++
 featured_image = 'dir.webp'
-title = "Dır-dir-dur-dür – tır-tir-tur-tür"
+title = "Аффикс утверждения (-dır / -dir / -dur / -dür)"
 level = "B1"
 draft = false
 url = '/neobkhodimaya-teoriya/dir/'

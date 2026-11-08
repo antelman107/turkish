@@ -1,6 +1,6 @@
 +++
 featured_image = 'dep_inca.webp'
-title = "утверждение"
+title = "Деепричастие «как только» (-ınca / -ince)"
 level = "B1"
 draft = false
 url = '/neobkhodimaya-teoriya/deeprichastie-inca/'

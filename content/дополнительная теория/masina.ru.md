@@ -1,6 +1,6 @@
 +++
 featured_image = 'masina.webp'
-title = "-masına/-mesine (его/ее действие)"
+title = "Несмотря на действие (-masına / -mesine)"
 level = "C1"
 draft = false
 url = "/dopolnitelnaya-teoriya/masina/"

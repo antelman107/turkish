@@ -1,6 +1,6 @@
 +++
 featured_image = 'surece.webp'
-title = "1. SÜRECE"
+title = "Пока, до тех пор пока (-dığı sürece)"
 level = "B2"
 draft = false
 url = '/dopolnitelnaya-teoriya/surece/'

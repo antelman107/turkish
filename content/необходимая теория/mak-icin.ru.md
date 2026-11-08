@@ -1,6 +1,6 @@
 +++
 featured_image = 'mak_icin.webp'
-title = "-mak için (чтобы, для того чтобы)"
+title = "Чтобы (-mak için)"
 level = "A2"
 draft = false
 url = "/neobkhodimaya-teoriya/mak-icin/"

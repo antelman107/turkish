@@ -1,6 +1,6 @@
 +++
 featured_image = 'mi_emphasis.webp'
-title = "Конструкция mI/mi/mu/mü для усиления смысла"
+title = "Усилительная конструкция (mı/mi для усиления)"
 level = "A1"
 draft = false
 url = '/dopolnitelnaya-teoriya/mi-dlya-usileniya-smysla/'

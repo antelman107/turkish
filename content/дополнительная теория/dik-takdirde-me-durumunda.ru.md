@@ -1,6 +1,6 @@
 +++
 featured_image = 'dik_takdirde.webp'
-title = "-dığı takdirde / -me durumunda"
+title = "В случае если (-dığı takdirde / -me durumunda)"
 level = "C1"
 draft = false
 url = "/dopolnitelnaya-teoriya/dik-takdirde-me-durumunda/"

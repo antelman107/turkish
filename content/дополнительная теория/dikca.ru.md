@@ -1,6 +1,6 @@
 +++
 featured_image = 'dikca.webp'
-title = "Деепричастие **Dıkça/dikçe/dukca/dükçe/tukca/tikce/tukça/tükçe**"
+title = "Чем больше — тем больше (-dıkça)"
 level = "B2"
 draft = false
 url = '/dopolnitelnaya-teoriya/dikca/'

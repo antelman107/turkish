@@ -1,6 +1,6 @@
 +++
 featured_image = 'mi_question.webp'
-title = "Вопросительная частица mı/mi/mu/mü"
+title = "Вопросительная частица (mı / mi / mu / mü)"
 level = "C1"
 draft = false
 url = "/dopolnitelnaya-teoriya/voprositelnye-mi/"

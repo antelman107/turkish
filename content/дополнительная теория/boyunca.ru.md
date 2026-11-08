@@ -1,6 +1,6 @@
 +++
 featured_image = 'boyunca.webp'
-title = "boyunca (в течение, на протяжении)"
+title = "На протяжении (boyunca)"
 level = "C1"
 draft = false
 url = "/dopolnitelnaya-teoriya/boyunca/"

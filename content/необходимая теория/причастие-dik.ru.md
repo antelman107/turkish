@@ -1,6 +1,6 @@
 +++
 featured_image = 'participle_dik.webp'
-title = 'Причастие dık'
+title = "Причастие прошедшего времени (-dık / -dik)"
 level = "B2"
 url = '/neobkhodimaya-teoriya/prichastie-dik/'
 aliases = ['/drugaya-teoriya/prichastie-dik/']

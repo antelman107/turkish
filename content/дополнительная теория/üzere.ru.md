@@ -1,6 +1,6 @@
 +++
 featured_image = 'uzere.webp'
-title = "Вот-вот, почти, чтобы (послелог üzere)"
+title = "Вот-вот, собираясь (üzere)"
 level = "A1"
 draft = false
 url = '/dopolnitelnaya-teoriya/uzere/'

@@ -1,6 +1,6 @@
 +++
 featured_image = 'dep_dik.webp'
-title = 'Деепричастие dik'
+title = "Причастие прошедшего времени (-dık / -dik)"
 level = "B1"
 url = '/neobkhodimaya-teoriya/deeprichastie-dik/'
 

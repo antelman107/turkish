@@ -1,6 +1,6 @@
 +++
 featured_image = 'bilir.webp'
-title = "bilir форма возможности"
+title = "Форма возможности (-abilir / -ebilir)"
 level = "A2"
 draft = false
 url = '/dopolnitelnaya-teoriya/bilir-forma-vozmozhnosti/'

@@ -1,6 +1,6 @@
 +++
 featured_image = 'dep_ae.webp'
-title = "Деепричастие -a/-e (повтор действия)"
+title = "Деепричастие повтора (-a -e / -a -a)"
 level = "A2"
 draft = false
 url = "/dopolnitelnaya-teoriya/deeprichastie-a-e/"

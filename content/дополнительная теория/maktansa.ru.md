@@ -1,6 +1,6 @@
 +++
 featured_image = 'maktansa.webp'
-title = "Вместо того (maktansa, yerine, varken, acağına)"
+title = "Вместо того чтобы (-maktansa / yerine / -acağına)"
 level = "C1"
 draft = false
 url = '/dopolnitelnaya-teoriya/maktansa/'

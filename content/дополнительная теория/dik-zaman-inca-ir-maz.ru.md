@@ -1,6 +1,6 @@
 +++
 featured_image = 'dik_zaman.webp'
-title = "Временные конструкции: -dığında/-ınca/-ır...-maz"
+title = "Временные конструкции (-dığında / -ınca / -ır maz)"
 level = "B1"
 draft = false
 url = "/dopolnitelnaya-teoriya/dik-zaman-inca-ir-maz/"

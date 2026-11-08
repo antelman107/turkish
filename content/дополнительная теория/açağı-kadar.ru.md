@@ -1,6 +1,6 @@
 +++
 featured_image = 'acagi_kadar.webp'
-title = "Настолько ... насколько (-dık/-acak kadar)"
+title = "Приблизительно (aşağı yukarı / -acak kadar)"
 level = "B1"
 draft = false
 url = '/dopolnitelnaya-teoriya/acagi-kadar/'

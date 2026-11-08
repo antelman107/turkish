@@ -1,6 +1,6 @@
 +++
 featured_image = 'dik_kadar.webp'
-title = "dık kadar (настолько, сколько)"
+title = "Насколько (-dık kadar)"
 level = "C1"
 draft = false
 url = "/dopolnitelnaya-teoriya/dik-kadar/"

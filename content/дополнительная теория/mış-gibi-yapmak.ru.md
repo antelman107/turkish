@@ -1,6 +1,6 @@
 +++
 featured_image = 'mish_gibi.webp'
-title = "-mış gibi yapmak"
+title = "Делать вид что (-mış gibi yapmak)"
 level = "C1"
 draft = false
 url = '/dopolnitelnaya-teoriya/mis-gibi-yapmak/'

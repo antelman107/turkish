@@ -1,6 +1,6 @@
 +++
 featured_image = 'dik_gibi.webp'
-title = "dık gibi (как только / как)"
+title = "Как будто (-dık gibi)"
 level = "C1"
 draft = false
 url = "/dopolnitelnaya-teoriya/dik-gibi/"

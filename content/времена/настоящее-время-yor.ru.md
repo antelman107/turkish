@@ -1,5 +1,5 @@
 +++
-title = "Настоящее время (-yor)"
+title = "Настоящее время (şimdiki zaman)"
 level = "A1"
 draft = false
 tags = ["настоящее"]

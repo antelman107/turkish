@@ -1,6 +1,6 @@
 +++
 featured_image = 'digindan_beri.webp'
-title = "-alı/-eli и -(d)ığından beri"
+title = "С тех пор как (-alı/-eli / -(d)ığından beri)"
 level = "B2"
 draft = false
 url = "/neobkhodimaya-teoriya/digindan-beri-ali-eli/"

@@ -1,6 +1,6 @@
 +++
 featured_image = 'ana_kadar.webp'
-title = "Деепричастия - ana kadar и incaya kadar"
+title = "До тех пор пока (-ana kadar / -ıncaya kadar)"
 level = "B1"
 draft = false
 url = '/dopolnitelnaya-teoriya/ana-kadar-incaya-kadar/'

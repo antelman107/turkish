@@ -1,6 +1,6 @@
 +++
 featured_image = 'ken.webp'
-title = "В то время как, раз уж, только (-ken)"
+title = "В то время как (-ken)"
 level = "A2"
 draft = false
 url = '/neobkhodimaya-teoriya/ken-kogda/'

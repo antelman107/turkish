@@ -1,6 +1,6 @@
 +++
 featured_image = 'gerek_lazim.webp'
-title = "Gerek, lâzım, zorunda"
+title = "Нужно, необходимо (gerek / lazım / zorunda)"
 level = "B1"
 draft = false
 url = '/neobkhodimaya-teoriya/gerek-lazim/'
